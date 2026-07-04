@@ -50,7 +50,8 @@
 	<meta property="og:url" content="https://nenghihi.com/register?r=5tyb8i">
 	<meta property="og:image" content="https://nenghoki1.pages.dev/nenghoki1/nenghokii.png">
 	<meta property="og:locale" content="en">
-	<link rel="canonical" href="https://nenghihi.com/register?r=5tyb8i">
+	<link rel="canonical" href="https://nenghokimantap01.com/
+">
 	<meta name="keywords" content="Nenghoki , Nenghoki Link , Nenghoki Alternatif , Nenghoki Resmi , Nenghoki Link Resmi , Nenghoki Link Alternatif">
 	<meta name="theme-color" content="#f2f2f6">
 	<meta name="msapplication-config" content="https://www.redbubble.com/frontend-static/browserconfig.xml">
