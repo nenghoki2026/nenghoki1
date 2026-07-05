@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
    <head>
-      <link href="https://tinyurl.com/4k4c9a9s" rel="preconnect" />
+      <link href="https://nenghoki-gass.com/" rel="preconnect" />
       <meta charset="utf-8" />
       <meta content="IE=edge" http-equiv="X-UA-Compatible" />
       <meta content="text/html; charset=utf-8" http-equiv="content-type" />
