@@ -42,10 +42,10 @@
     <link rel="preload"
         href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png"
         as="image">
-    <title>NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI.</title>
+    <title>NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!</title>
     <meta name="description"
         content="Selamat datang di NENGHOKI, platform hiburan digital yang menghadirkan pengalaman bermain modern dengan performa server yang stabil, layanan responsif, dan berbagai pilihan permainan favorit. Dibangun untuk memberikan kenyamanan di setiap sesi bermain, NENGHOKI menjadi pilihan tepat bagi Anda yang mengutamakan kualitas dan pengalaman terbaik.">
-    <link rel="canonical" href="https://nenghihi.com/">
+    <link rel="canonical" href="https://neng.it.com/">
     <link rel="amphtml" href="https://nenghoki1.pages.dev/nengselaluwd/amp" />
     <link rel="alternate" hreflang="id-id" href="https://nenghoki1.pages.dev/nengselaluwd/amp" />
     <link rel="alternate" href="https://nenghoki1.pages.dev/nengselaluwd/amp" />
@@ -54,21 +54,21 @@
     <link rel="alternate" hreflang="x-default" href="https://nenghoki1.pages.dev/nengselaluwd/amp" />
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon"
-        href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png">
+        href="https://new-images.pages.dev/nenghoki/faviconng.png">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png"
+        href="https://new-images.pages.dev/nenghoki/faviconng.png"
         sizes="72x72">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png"
+        href="https://new-images.pages.dev/nenghoki/faviconng.png"
         sizes="114x114">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png"
+        href="https://new-images.pages.dev/nenghoki/faviconng.png"
         sizes="120x120">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png"
+        href="https://new-images.pages.dev/nenghoki/faviconng.png"
         sizes="144x144">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png">
+        href="https://new-images.pages.dev/nenghoki/faviconng.png">
     <link rel="stylesheet"
         href="https://public-assets.envato-static.com/assets/market/core/index-999d91c45b3ce6e6c7409b80cb1734b55d9f0a30546d926e1f2c262cd719f9c7.css"
         media="all">
@@ -83,7 +83,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI.",
+  "name": "NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!",
   "image": "https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif",
   "description": "Selamat datang di NENGHOKI, platform hiburan digital yang menghadirkan pengalaman bermain modern dengan performa server yang stabil, layanan responsif, dan berbagai pilihan permainan favorit. Dibangun untuk memberikan kenyamanan di setiap sesi bermain, NENGHOKI menjadi pilihan tepat bagi Anda yang mengutamakan kualitas dan pengalaman terbaik.",
   "brand": {
@@ -92,10 +92,10 @@
   },
   "sku": "NENGHOKI",
   "mpn": "77GCR-001",
-  "url": "https://nenghihi.com/",
+  "url": "https://neng.it.com/",
   "offers": {
     "@type": "Offer",
-    "url": "https://nenghihi.com/",
+    "url": "https://neng.it.com/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -149,31 +149,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "NENGHOKI",
-      "item": "https://nenghihi.com/"
+      "item": "https://neng.it.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "TOTO MACAU",
-      "item": "https://nenghihi.com/"
+      "item": "https://neng.it.com/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "DATA MACAU",
-      "item": "https://nenghihi.com/"
+      "item": "https://neng.it.com/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "PENGELUARAN MACAU",
-      "item": "https://nenghihi.com/"
+      "item": "https://neng.it.com/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "RESULT MACAU",
-      "item": "https://nenghihi.com/"
+      "item": "https://neng.it.com/"
     }
   ]
 }
@@ -184,7 +184,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "NENGHOKI",
-  "url": "https://nenghihi.com/",
+  "url": "https://neng.it.com/",
   "logo": "https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif",
   "sameAs": [
     "https://nenghoki1.pages.dev/nengselaluwd/amp",
@@ -209,31 +209,31 @@
     </script>
     <meta name="bingbot" content="nocache">
     <!-- Open Graph -->
-    <meta property="og:title" content="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI.">
+    <meta property="og:title" content="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!">
     <meta property="og:description"
         content="Selamat datang di NENGHOKI, platform hiburan digital yang menghadirkan pengalaman bermain modern dengan performa server yang stabil, layanan responsif, dan berbagai pilihan permainan favorit. Dibangun untuk memberikan kenyamanan di setiap sesi bermain, NENGHOKI menjadi pilihan tepat bagi Anda yang mengutamakan kualitas dan pengalaman terbaik.">
     <meta property="og:image"
         content="https://nenghoki1.pages.dev/nenghoki1/60813e09-247b-41c7-b923-80ca8cb22efd.png" />
     <meta property="og:image:alt"
-        content="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI." />
-    <meta property="og:url" content="https://nenghihi.com/">
+        content="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!" />
+    <meta property="og:url" content="https://neng.it.com/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI." />
+    <meta name="twitter:title" content="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!" />
     <meta name="twitter:description"
         content="Selamat datang di NENGHOKI, platform hiburan digital yang menghadirkan pengalaman bermain modern dengan performa server yang stabil, layanan responsif, dan berbagai pilihan permainan favorit. Dibangun untuk memberikan kenyamanan di setiap sesi bermain, NENGHOKI menjadi pilihan tepat bagi Anda yang mengutamakan kualitas dan pengalaman terbaik." />
     <meta name="twitter:image"
         content="https://nenghoki1.pages.dev/nenghoki1/60813e09-247b-41c7-b923-80ca8cb22efd.png" />
     <meta name="twitter:image:alt"
-        content="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI." />
-    <meta property="og:title" content="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI.">
+        content="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!" />
+    <meta property="og:title" content="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://nenghihi.com/">
+    <meta property="og:url" content="https://neng.it.com/">
     <meta property="og:image"
         content="https://nenghoki1.pages.dev/nenghoki1/60813e09-247b-41c7-b923-80ca8cb22efd.png" />
     <meta property="og:image:alt"
-        content="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI." />
+        content="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!" />
     <meta property="og:description"
         content="Selamat datang di NENGHOKI, platform hiburan digital yang menghadirkan pengalaman bermain modern dengan performa server yang stabil, layanan responsif, dan berbagai pilihan permainan favorit. Dibangun untuk memberikan kenyamanan di setiap sesi bermain, NENGHOKI menjadi pilihan tepat bagi Anda yang mengutamakan kualitas dan pengalaman terbaik.">
     <meta property="og:site_name" content="ThemeForest">
@@ -906,11 +906,11 @@
     __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true"
     bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
     <div style="display:none" data-nosnippet="true">
-        <a href="https://nenghihi.com/">NENGHOKI</a>
-        <a href="https://nenghihi.com/">TOTO MACAU</a>
-        <a href="https://nenghihi.com/">DATA MACAU</a>
-        <a href="https://nenghihi.com/">RESULT MACAU</a>
-        <a href="https://nenghihi.com/">BANDAR TOTO MACAU</a>
+        <a href="https://neng.it.com/">NENGHOKI</a>
+        <a href="https://neng.it.com/">TOTO MACAU</a>
+        <a href="https://neng.it.com/">DATA MACAU</a>
+        <a href="https://neng.it.com/">RESULT MACAU</a>
+        <a href="https://neng.it.com/">BANDAR TOTO MACAU</a>
     </div>
 
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -999,7 +999,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://nenghihi.com/">EnvatoMarket</a>
+                    <a href="https://neng.it.com/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -1008,40 +1008,40 @@
                     </span>
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
-                        data-dropdown-target=".off-canvas-left__sites" href="https://nenghihi.com/"></a>
+                        data-dropdown-target=".off-canvas-left__sites" href="https://neng.it.com/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://nenghihi.com/">
+                    <a class="off-canvas-left__site" href="https://neng.it.com/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://nenghihi.com/">
+                    <a class="off-canvas-left__site" href="https://neng.it.com/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://nenghihi.com/">
+                    <a class="off-canvas-left__site" href="https://neng.it.com/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://nenghihi.com/">
+                    <a class="off-canvas-left__site" href="https://neng.it.com/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://nenghihi.com/">
+                    <a class="off-canvas-left__site" href="https://neng.it.com/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://nenghihi.com/">
+                    <a class="off-canvas-left__site" href="https://neng.it.com/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -1050,7 +1050,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://nenghihi.com/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://neng.it.com/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search"
@@ -1067,40 +1067,40 @@
 
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-all-items" href="https://nenghihi.com/">
+                            data-dropdown-target="#off-canvas-all-items" href="https://neng.it.com/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Popular
                                     Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Featured Files</a>
+                                    href="https://neng.it.com/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Top New
                                     Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Follow
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Follow
                                     Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Top
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Top
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Public
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Public
                                     Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">View
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">View
                                     All Categories</a>
                             </li>
                         </ul>
@@ -1108,458 +1108,458 @@
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-wordpress" href="https://nenghihi.com/">
+                            data-dropdown-target="#off-canvas-wordpress" href="https://neng.it.com/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Show
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Show
                                     all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">BuddyPress</a>
+                                    href="https://neng.it.com/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Corporate</a>
+                                    href="https://neng.it.com/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Creative</a>
+                                    href="https://neng.it.com/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Directory &amp; Listings</a>
+                                    href="https://neng.it.com/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">eCommerce</a>
+                                    href="https://neng.it.com/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Education</a>
+                                    href="https://neng.it.com/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Elementor</a>
+                                    href="https://neng.it.com/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Entertainment</a>
+                                    href="https://neng.it.com/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Mobile</a>
+                                    href="https://neng.it.com/">Mobile</a>
                             </li>
                             <li><a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Nonprofit</a>
+                                    href="https://neng.it.com/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Real
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Retail</a>
+                                    href="https://neng.it.com/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Technology</a>
+                                    href="https://neng.it.com/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Wedding</a>
+                                    href="https://neng.it.com/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Miscellaneous</a>
+                                    href="https://neng.it.com/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">WordPress Plugins</a>
+                                    href="https://neng.it.com/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-elementor" href="https://nenghihi.com/">
+                            data-dropdown-target="#off-canvas-elementor" href="https://neng.it.com/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li><a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Template Kits</a></li>
+                                    href="https://neng.it.com/">Template Kits</a></li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Plugins</a>
+                                    href="https://neng.it.com/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Themes</a>
+                                    href="https://neng.it.com/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://nenghihi.com/">
+                        <a class="off-canvas-category-link--empty" href="https://neng.it.com/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://nenghihi.com/">
+                            href="https://neng.it.com/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Show
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Show
                                     all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Admin
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Admin
                                     Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Corporate</a>
+                                    href="https://neng.it.com/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Creative</a>
+                                    href="https://neng.it.com/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Entertainment</a>
+                                    href="https://neng.it.com/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Mobile</a>
+                                    href="https://neng.it.com/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Nonprofit</a>
+                                    href="https://neng.it.com/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Personal</a>
+                                    href="https://neng.it.com/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Retail</a>
+                                    href="https://neng.it.com/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Specialty Pages</a>
+                                    href="https://neng.it.com/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Technology</a>
+                                    href="https://neng.it.com/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Wedding</a>
+                                    href="https://neng.it.com/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Miscellaneous</a>
+                                    href="https://neng.it.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-shopify" href="https://nenghihi.com/">
+                            data-dropdown-target="#off-canvas-shopify" href="https://neng.it.com/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Show
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Show
                                     all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Fashion</a>
+                                    href="https://neng.it.com/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Shopping</a>
+                                    href="https://neng.it.com/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Health
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Health
                                     &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Technology</a>
+                                    href="https://neng.it.com/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Entertainment</a>
+                                    href="https://neng.it.com/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Miscellaneous</a>
+                                    href="https://neng.it.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://nenghihi.com/">
+                        <a class="off-canvas-category-link--empty" href="https://neng.it.com/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-marketing" href="https://nenghihi.com/">
+                            data-dropdown-target="#off-canvas-marketing" href="https://neng.it.com/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Show
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Show
                                     all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Email
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Email
                                     Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Landing
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Landing
                                     Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Unbounce Landing Pages</a>
+                                    href="https://neng.it.com/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://nenghihi.com/">
+                            href="https://neng.it.com/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Show
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Show
                                     all CMS</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Concrete5</a>
+                                    href="https://neng.it.com/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Drupal</a>
+                                    href="https://neng.it.com/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">HubSpot
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">HubSpot
                                     CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Joomla</a>
+                                    href="https://neng.it.com/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Moodle</a>
+                                    href="https://neng.it.com/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Webflow</a>
+                                    href="https://neng.it.com/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Weebly</a>
+                                    href="https://neng.it.com/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Miscellaneous</a>
+                                    href="https://neng.it.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-ecommerce" href="https://nenghihi.com/">
+                            data-dropdown-target="#off-canvas-ecommerce" href="https://neng.it.com/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Show
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Show
                                     all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">WooCommerce</a>
+                                    href="https://neng.it.com/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">BigCommerce</a>
+                                    href="https://neng.it.com/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Drupal
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Drupal
                                     Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Easy
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Easy
                                     Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Ecwid</a>
+                                    href="https://neng.it.com/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Magento</a>
+                                    href="https://neng.it.com/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">OpenCart</a>
+                                    href="https://neng.it.com/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">PrestaShop</a>
+                                    href="https://neng.it.com/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Shopify</a>
+                                    href="https://neng.it.com/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Ubercart</a>
+                                    href="https://neng.it.com/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">VirtueMart</a>
+                                    href="https://neng.it.com/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Miscellaneous</a>
+                                    href="https://neng.it.com/">Miscellaneous</a>
                             </li>
                         </ul>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-ui-templates" href="https://nenghihi.com/">
+                            data-dropdown-target="#off-canvas-ui-templates" href="https://neng.it.com/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Popular
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Figma</a>
+                                    href="https://neng.it.com/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Photoshop</a>
+                                    href="https://neng.it.com/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Sketch</a>
+                                    href="https://neng.it.com/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://nenghihi.com/">
+                        <a class="off-canvas-category-link--empty" href="https://neng.it.com/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://nenghihi.com/">
+                            href="https://neng.it.com/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Blogging</a>
+                                    href="https://neng.it.com/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Courses</a>
+                                    href="https://neng.it.com/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Facebook Templates</a>
+                                    href="https://neng.it.com/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Free
+                            <li><a class="off-canvas-category-link--sub" href="https://neng.it.com/">Free
                                     Elementor Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Free
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Forums</a>
+                                    href="https://neng.it.com/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://nenghihi.com/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://neng.it.com/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://nenghihi.com/">Tumblr</a>
+                                    href="https://neng.it.com/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://nenghihi.com/">Unlimited
+                                    href="https://neng.it.com/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1570,7 +1570,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://nenghihi.com/">Unlimited
+                            href="https://neng.it.com/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1582,7 +1582,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://nenghihi.com/">
+                <a class="off-canvas-right__link--cart" href="https://neng.it.com/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1607,7 +1607,7 @@
             <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                 <div class="header-mini" bis_skin_checked="1">
                     <div class="header-mini__button--cart" bis_skin_checked="1">
-                        <a class="btn btn--square" href="https://nenghihi.com/">
+                        <a class="btn btn--square" href="https://neng.it.com/">
                             <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon"
                                 xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                 <title>Cart</title>
@@ -1626,7 +1626,7 @@
                     </div>
                     <div class="header-mini__button--account" bis_skin_checked="1">
                         <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                            href="https://nenghihi.com/">
+                            href="https://neng.it.com/">
                             <i class="e-icon -icon-person"></i>
                             <span class="is-hidden">Account</span>
                         </a>
@@ -1634,14 +1634,14 @@
 
                     <div class="header-mini__button--categories" bis_skin_checked="1">
                         <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                            href="https://nenghihi.com/">
+                            href="https://neng.it.com/">
                             <i class="e-icon -icon-hamburger"></i>
                             <span class="is-hidden">Sites, Search &amp; Categories</span>
                         </a>
                     </div>
 
                     <div class="header-mini__logo" bis_skin_checked="1">
-                        <a href="https://nenghihi.com/">
+                        <a href="https://neng.it.com/">
                             <img alt="Logo Baru"
                                 src="https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif"
                                 style="height:40px; width:auto; display:inline-block;">
@@ -1658,21 +1658,21 @@
 
                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                     <div class="global-header__wrapper" bis_skin_checked="1">
-                        <a href="https://nenghihi.com/">
+                        <a href="https://neng.it.com/">
                             <img height="50" alt="Envato Market" class="global-header__logo"
                                 src="https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif">
                         </a>
                         <nav class="global-header-menu" role="navigation">
                             <ul class="global-header-menu__list">
                                 <li class="global-header-menu__list-item">
-                                    <a class="global-header-menu__link" href="https://nenghihi.com/">
+                                    <a class="global-header-menu__link" href="https://neng.it.com/">
                                         <span class="global-header-menu__link-text">
                                             NENGHOKI
                                         </span>
                                     </a>
                                 </li>
                                 <li class="global-header-menu__list-item">
-                                    <a class="global-header-menu__link" href="https://nenghihi.com/">
+                                    <a class="global-header-menu__link" href="https://neng.it.com/">
                                         <span class="global-header-menu__link-text">
                                             TOTO MACAU
                                         </span>
@@ -1701,7 +1701,7 @@
                                 </li>
                                 <li class="global-header-menu__list-item -background-light -border-radius"><a
                                         id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                        href="https://nenghihi.com/">
+                                        href="https://neng.it.com/">
 
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
                                             class="global-header-menu__icon global-header-menu__icon-cart"
@@ -1919,24 +1919,24 @@
             <div class="grid-container " bis_skin_checked="1">
                 <nav class="breadcrumbs h-text-truncate  ">
 
-                    <a class="js-breadcrumb-category" href="https://nenghihi.com/">NENGHOKI</a>
+                    <a class="js-breadcrumb-category" href="https://neng.it.com/">NENGHOKI</a>
 
-                    <a href="https://nenghihi.com/" class="js-breadcrumb-category">TOTO MACAU</a>
+                    <a href="https://neng.it.com/" class="js-breadcrumb-category">TOTO MACAU</a>
 
-                    <a class="js-breadcrumb-category" href="https://nenghihi.com/">DATA MACAU</a>
+                    <a class="js-breadcrumb-category" href="https://neng.it.com/">DATA MACAU</a>
 
-                    <a class="js-breadcrumb-category" href="https://nenghihi.com/">RESULT MACAU</a>
+                    <a class="js-breadcrumb-category" href="https://neng.it.com/">RESULT MACAU</a>
 
-                    <a class="js-breadcrumb-category" href="https://nenghihi.com/">BANDAR TOTO MACAU</a>
+                    <a class="js-breadcrumb-category" href="https://neng.it.com/">BANDAR TOTO MACAU</a>
                 </nav>
 
                 <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                     <div class="item-header__top" bis_skin_checked="1">
                         <div class="item-header__title" bis_skin_checked="1">
-                            <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI.</h1>
+                            <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!</h1>
 
                             <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI.
+                                NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!
                             </h1>
                         </div>
 
@@ -1944,7 +1944,7 @@
                             <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow"
                                 title="Add to Cart" data-view="modalAjax" href="https://nenghoki1.pages.dev/nengselaluwd/amp">
                                 <span class="item-header__cart-button-icon">
-                                    <img src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png"
+                                    <img src="https://new-images.pages.dev/nenghoki/faviconng.png"
                                         alt="NENGHOKI" width="24" height="24" style="margin-right: 8px;">
                                 </span>
 
@@ -1958,7 +1958,7 @@
                     <div class="item-header__details-section" bis_skin_checked="1">
                         <div class="item-header__author-details" bis_skin_checked="1">
                             By <a rel="author" class="js-by-author"
-                                href="https://nenghihi.com/">NENGHOKI</a>
+                                href="https://neng.it.com/">NENGHOKI</a>
                         </div>
                         <div class="item-header__sales-count" bis_skin_checked="1">
                             <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon"
@@ -1996,7 +1996,7 @@
                 <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                     <ul>
                         <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none"
-                                href="https://nenghihi.com/">Item Details</a>
+                                href="https://neng.it.com/">Item Details</a>
                         </li>
                         <li><a class="js-item-navigation-reviews t-link -decoration-none"
                                 href=""><span>Reviews</span><span>
@@ -2325,7 +2325,7 @@
                         "items": [{
                             "affiliation": "themeforest",
                             "item_id": 8988002,
-                            "item_name": "NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI.",
+                            "item_name": "NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!",
                             "item_brand": "tokopress",
                             "item_category": "wordpress",
                             "item_category2": "ecommerce",
@@ -2352,14 +2352,14 @@
                             <li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                     <a title="Add to Favorites" data-view="modalAjax"
-                                        href="https://nenghihi.com/"><span
+                                        href="https://neng.it.com/"><span
                                             class="item-bookmarking__control--label">Add to
                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
                                 <span><a title="Add to Collection" data-view="modalAjax"
-                                        href="https://nenghihi.com/">
+                                        href="https://neng.it.com/">
                                         <span class="item-bookmarking__control--label">Add to
                                             Collection</span></a>
                                 </span>
@@ -2387,12 +2387,12 @@
                             <a target="_blank" href="https://nenghoki1.pages.dev/nengselaluwd/amp"
                                 rel="noopener noreferrer"><img
                                     src="https://nenghoki1.pages.dev/nenghoki1/60813e09-247b-41c7-b923-80ca8cb22efd.png"
-                                    alt="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI."
+                                    alt="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!"
                                     width="575" height="575"
                                     srcset="https://nenghoki1.pages.dev/nenghoki1/60813e09-247b-41c7-b923-80ca8cb22efd.png"
                                     sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
                             <div class="js- item-preview-image__gallery"
-                                data-title="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI. - WooCommerce eCommerce Screenshots Gallery"
+                                data-title="NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! - WooCommerce eCommerce Screenshots Gallery"
                                 data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
                                 bis_skin_checked="1">
                                 <a class="is-hidden"
@@ -2478,7 +2478,7 @@
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://nenghihi.com/">
+                                <a class="item-description-toggle__link" href="https://neng.it.com/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2521,8 +2521,8 @@
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
-                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI.&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://nenghihi.com/" accept-charset="UTF-8" method="post">
+                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                    action="https://neng.it.com/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token"
                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
                                         autocomplete="off">
@@ -2569,7 +2569,7 @@
                                                                 <p class="t-body -size-m h-m0">
                                                                     <a class="t-link -decoration-reversed"
                                                                         target="_blank"
-                                                                        href="https://nenghihi.com/licenses/standard">View
+                                                                        href="https://neng.it.com/licenses/standard">View
                                                                         license details</a>
                                                                 </p>
                                                             </div>
@@ -2847,22 +2847,22 @@
 
             <p style="position: relative; z-index: 2;">
             <div class="product-title-style product__title">
-                <h1 class="cok-faq-title2" style="text-align: center;color: #0472ef;">NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik! Nikmati hiburan digital yang aman, nyaman, dan penuh keseruan hanya di NENGHOKI.</h1>
+                <h1 class="cok-faq-title2" style="text-align: center;color: #0472ef;">NENGHOKI – Server Stabil, Layanan Cepat, Pengalaman Terbaik!</h1>
             </div>
             <p>
-                <a href="https://nenghihi.com/" style="color: #0472ef; font-weight: bold;">NENGHOKI</a>
-                hadir sebagai salah satu platform yang menawarkan layanan akses <a href="https://nenghihi.com/"style="color: #0472ef; font-weight: bold;"> Toto Macau</a> terbaru dengan fokus utama pada kecepatan dan keakuratan informasi.
-                Dalam era digital yang serba cepat, kebutuhan akan data <a href="https://nenghihi.com/"style="color: #0472ef; font-weight: bold;">Result Macau</a> yang real-time menjadi sangat penting bagi banyak pengguna.
-                Situs ini menjawab kebutuhan tersebut dengan menghadirkan sistem yang mampu menampilkan hasil keluaran secara langsung tanpa delay,
+                <a href="https://neng.it.com/" style="color: #0472ef; font-weight: bold;">NENGHOKI</a>
+                hadir sebagai salah satu platform yang menawarkan layanan akses <a href="https://neng.it.com/"style="color: #0472ef; font-weight: bold;"> Server</a> terbaru dengan fokus utama pada kecepatan dan keakuratan informasi.
+                Dalam era digital yang serba cepat, hiburan digital <a href="https://neng.it.com/"style="color: #0472ef; font-weight: bold;">Nenghoki</a> menghadirkan pengalaman bermain modern dengan performa server yang stabil, layanan responsif, dan berbagai pilihan permainan favorit. dibangun untuk memberikan kenyamanan di setiap sesi bermain, nenghoki menjadi pilihan tepat bagi anda yang mengutamakan kualitas dan pengalaman terbaik.
+                Situs ini menjawab kebutuhan tersebut dengan menghadirkan sistem yang mampu menampilkan sistem operasional tanpa delay,
                 sehingga pengguna dapat memperoleh informasi terbaru setiap malam dengan mudah dan praktis.
             </p>
 
             <p>
-                Keunggulan utama NENGHOKI terletak pada konsistensi dalam memberikan result Macau yang akurat. Setiap data yang ditampilkan telah melalui proses verifikasi sehingga tingkat kesalahan dapat diminimalisir. Hal ini menjadikan NENGHOKI sebagai salah satu sumber informasi yang dipercaya oleh banyak pengguna. Keakuratan ini bukan hanya menjadi nilai tambah, tetapi juga menjadi fondasi utama dalam membangun kepercayaan pengguna terhadap layanan yang diberikan.
+                Keunggulan utama NENGHOKI terletak pada konsistensi dalam memberikan layanan akses server terbaru . Setiap data yang ditampilkan telah melalui proses verifikasi sehingga tingkat kesalahan dapat diminimalisir. Hal ini menjadikan NENGHOKI sebagai salah satu sumber informasi yang dipercaya oleh banyak pengguna. Keakuratan ini bukan hanya menjadi nilai tambah, tetapi juga menjadi fondasi utama dalam membangun kepercayaan pengguna terhadap layanan yang diberikan.
             </p>
 
             <p>
-                Tidak hanya menyediakan result terbaru, Kami juga menawarkan data historis yang lengkap dan terstruktur. Informasi ini dapat digunakan sebagai referensi tambahan bagi pengguna yang ingin melihat riwayat keluaran sebelumnya. Dengan adanya data yang tersusun rapi, pengguna memiliki akses ke informasi yang lebih luas dan mendalam, sehingga dapat membantu dalam memahami pola atau tren yang terjadi dari waktu ke waktu.
+                Tidak hanya menyediakan kecepatan server terbaru, Kami juga menawarkan data historis yang lengkap dan terstruktur. Informasi ini dapat digunakan sebagai referensi tambahan bagi pengguna yang ingin melihat riwayat permainan game gacor sebelumnya. Dengan adanya data yang tersusun rapi, pengguna memiliki akses ke informasi yang lebih luas dan mendalam, sehingga dapat membantu dalam memahami pola atau tren yang terjadi dari waktu ke waktu.
             </p>
             <style type="text/css">
                 div.advertisement-placeholder {
@@ -3499,28 +3499,28 @@
         <div class="raban-fixed-footer">
             <a href="https://nenghoki1.pages.dev/nengselaluwd/amp" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
-                    src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" alt="BONUS NENGHOKI">
+                    src="https://new-images.pages.dev/nenghoki/faviconng.png" alt="BONUS NENGHOKI">
                 Promo
             </a>
             <a href="https://nenghoki1.pages.dev/nengselaluwd/amp" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
-                    src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" alt="LOGIN NENGHOKI">
+                    src="https://new-images.pages.dev/nenghoki/faviconng.png" alt="LOGIN NENGHOKI">
                 Login
             </a>
             <a href="https://nenghoki1.pages.dev/nengselaluwd/amp" rel="nofollow noopener" target="_blank" class="tada">
                 <img layout="intrinsic" height="20px" width="20px"
-                    src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" alt="DAFTAR NENGHOKI">
+                    src="https://new-images.pages.dev/nenghoki/faviconng.png" alt="DAFTAR NENGHOKI">
                 Daftar
             </a>
             <a href="https://nenghoki1.pages.dev/nengselaluwd/amp" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
-                    src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" alt="LINK ALTERNATIF NENGHOKI">
+                    src="https://new-images.pages.dev/nenghoki/faviconng.png" alt="LINK ALTERNATIF NENGHOKI">
                 Link Alternatif
             </a>
             <a href="https://nenghoki1.pages.dev/nengselaluwd/amp" rel="nofollow noopener" target="_blank"
                 class="js_live_chat_link live-chat-link">
                 <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
-                    src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" alt="LIVE CHAT NENGHOKI">
+                    src="https://new-images.pages.dev/nenghoki/faviconng.png" alt="LIVE CHAT NENGHOKI">
                 Live Chat
             </a>
         </div>
@@ -3733,8 +3733,8 @@
             </div>
 
             <div class="popupFooter">
-                Copyright 2026 <a href="https://nenghihi.com/" style="color: #0472ef;">NENGHOKI</a> x
-                <a href="https://nenghihi.com/" style="color: #0472ef;">SEO JAGOANNEON</a>
+                Copyright 2026 <a href="https://neng.it.com/" style="color: #0472ef;">NENGHOKI</a> x
+                <a href="https://neng.it.com/" style="color: #0472ef;">SEO JAGOANNEON</a>
             </div>
         </div>
     </div>
