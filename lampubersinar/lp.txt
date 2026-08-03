@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="id">
 
-<head prefix="og: https://nenghihi.com/ fb: https://nenghihi.com/ product: https://nenghihi.com/">
+<head prefix="og: https://nengfajar.com/ fb: https://nengfajar.com/ product: https://nengfajar.com/">
     <meta charset="utf-8" />
     <script async="" src="https://cdn.branch.io/branch-latest.min.js"></script>
     <script data-breeze="1">
@@ -62,7 +62,7 @@
         href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png">
     <link rel="shortcut icon" type="image/x-icon"
         href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png">
-    <link rel="canonical" href="https://nenghihi.com/">
+    <link rel="canonical" href="https://nengfajar.com/">
     <!--KB6WK8EHVmVHTESzwSWVMjZ6KU8vWqCH-->
     <!--2a1s2GN9TUKbwHv3HvawyC8mbXQAIuWc-->
     <!--vi7727dwaRtKsPIHEXMsLQoewBm0jClQ-->
@@ -202,7 +202,7 @@
         content="https://nenghoki1.pages.dev/nenghoki1/1013a068-3ba2-43e6-ba7a-9b4144779918.png?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270">
     <meta property="og:description"
         content="Rasakan pengalaman bermain yang lebih maksimal bersama NENGHOKI, platform hiburan digital dengan server terbaik di Indonesia. Didukung performa server yang stabil, proses transaksi yang cepat, serta koleksi permainan terlengkap, NENGHOKI siap menghadirkan kenyamanan dan keseruan di setiap momen bermain.">
-    <meta property="og:url" content="https://nenghihi.com/">
+    <meta property="og:url" content="https://nengfajar.com/">
     <meta property="product:price:amount" content="5.000">
     <meta property="product:price:currency" content="IDR">
     <script type="text/javascript" id="klevu_initsessiondata">
@@ -3986,7 +3986,7 @@
             </div>
             <div class="header content"><span data-action="toggle-nav" class="action nav-toggle"
                     tabindex="0"><span>Toggle Nav</span></span>
-                <a class="logo" href="https://nenghihi.com/" title="" aria-label="store logo">
+                <a class="logo" href="https://nengfajar.com/" title="" aria-label="store logo">
                     <img src="https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif"
                         title="" alt="" width="155" height="28">
                 </a>
@@ -3997,19 +3997,19 @@
                         <div class="top-header-components-mc mobile-component">
                             <div class="header_panel_info">
                                 <ul>
-                                    <li><a href="https://nenghihi.com/"><span><img loading="lazy" width="22"
+                                    <li><a href="https://nengfajar.com/"><span><img loading="lazy" width="22"
                                                     height="22" alt="Kanmo Circle logo"
                                                     src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"></span>about
                                             Kanmo Circle</a></li>
-                                    <li><a href="https://nenghihi.com/"><img loading="lazy" width="22"
+                                    <li><a href="https://nengfajar.com/"><img loading="lazy" width="22"
                                                 height="22" alt="gift registry icon"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift
                                             registry</a></li>
-                                    <li><a href="https://nenghihi.com/"><span><img loading="lazy" width="22"
+                                    <li><a href="https://nengfajar.com/"><span><img loading="lazy" width="22"
                                                     height="22" alt="store finder icon"
                                                     src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"></span>store
                                             finder</a></li>
-                                    <li><a href="https://nenghihi.com/" target="_blank"><span><img loading="lazy"
+                                    <li><a href="https://nengfajar.com/" target="_blank"><span><img loading="lazy"
                                                     width="22" height="22" alt="Whatsapp logo"
                                                     src="https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif"></span>contact
                                             us</a></li>
@@ -4027,7 +4027,7 @@
                                     data-toggle-mobile-nav="false" data-breeze-processed="true">
                                     <li id="vesitem-884521742308061573800708"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://nenghihi.com/" style="font-size:12px;"
+                                            href="https://nengfajar.com/" style="font-size:12px;"
                                             class=" nav-anchor"><span>NENGHOKI</span><span class="caret"></span><span
                                                 class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu"
@@ -5482,7 +5482,7 @@
                                     </li>
                                     <li id="vesitem-8845517423080611320572800"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://nenghihi.com/" style="font-size:12px;white-space: nowrap;"
+                                            href="https://nengfajar.com/" style="font-size:12px;white-space: nowrap;"
                                             class=" nav-anchor"><span>TOTO MACAU</span><span class="caret"></span><span
                                                 class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu"
@@ -5732,7 +5732,7 @@
                                     </li>
                                     <li id="vesitem-8845817423080611645503736"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://nenghihi.com/" style="font-size:12px;white-space: nowrap;"
+                                            href="https://nengfajar.com/" style="font-size:12px;white-space: nowrap;"
                                             class=" nav-anchor"><span>MACAU 4D</span><span
                                                 class="caret"></span><span class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu"
@@ -5884,7 +5884,7 @@
                                     </li>
                                     <li id="vesitem-8846117423080611688273500"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://nenghihi.com/" style="font-size:12px;white-space: nowrap;"
+                                            href="https://nengfajar.com/" style="font-size:12px;white-space: nowrap;"
                                             class=" nav-anchor"><span>TOTO MACAU 4D</span><span class="caret"></span><span
                                                 class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu"
@@ -5988,7 +5988,7 @@
                                     </li>
                                     <li id="vesitem-884641742308061459618024"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://nenghihi.com/" style="font-size:12px;white-space: nowrap;"
+                                            href="https://nengfajar.com/" style="font-size:12px;white-space: nowrap;"
                                             class=" nav-anchor"><span>BANDAR TOTO MACAU</span><span
                                                 class="caret"></span><span class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu"
@@ -6153,7 +6153,7 @@
                                     </li>
                                     <li id="vesitem-8846717423080612122176647"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://nenghihi.com/" style="max-lines: 2;
+                                            href="https://nengfajar.com/" style="max-lines: 2;
 line-height: 20px;
 width:100%;
 font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>RESULT TOTO MACAU</span><span class="caret"></span><span
@@ -6304,7 +6304,7 @@ font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>RESULT TOTO MACAU
                                     </li>
                                     <li id="vesitem-88470174230806170878408"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://nenghihi.com/" style="white-space: nowrap;
+                                            href="https://nengfajar.com/" style="white-space: nowrap;
 font-size:12px;
 " class=" nav-anchor"><span>LINK OFFICIAL TOTO MACAU</span><span class="caret"></span><span class="opener"></span></a>
                                         <div class="submenu animated  dropdown-menu"
@@ -6377,7 +6377,7 @@ font-size:12px;
                                     </li>
                                     <li id="vesitem-8847317423080612096131144"
                                         class=" nav-item level0 submenu-left subhover  dropdown level-top "><a
-                                            href="https://nenghihi.com/" target="_self"
+                                            href="https://nengfajar.com/" target="_self"
                                             data-hover-color="#fff !important" data-hover-bgcolor="#fed804 !important"
                                             data-color="#fff !important" data-bgcolor="#fed804 !important"
                                             style="color: #fff !important;background-color: #fed804 !important;"
@@ -6708,7 +6708,7 @@ font-size:12px;
 
                 <div class="actions dropdown options switcher-options no-chevron account-dropdown" data-trigger="true"
                     data-dropdown-parent="true">
-                    <a class="action toggle switcher-trigger" href="https://nenghihi.com/" title="Akun Saya"
+                    <a class="action toggle switcher-trigger" href="https://nengfajar.com/" title="Akun Saya"
                         data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown"
                         data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true"
                         aria-haspopup="true">
@@ -6738,12 +6738,12 @@ font-size:12px;
 
 
                             <li style="display: none;">
-                                <a href="https://nenghihi.com/">
+                                <a href="https://nengfajar.com/">
                                     buat akun </a>
                             </li>
                             <li>
 
-                                <a href="https://nenghihi.com/">
+                                <a href="https://nengfajar.com/">
                                     <span>Bantuan</span>
                                 </a>
                             </li>
@@ -6753,7 +6753,7 @@ font-size:12px;
 
                 <div
                     class="actions dropdown options switcher-options no-chevron no-chevron wishlist-dropdown dropdown-lg">
-                    <a class="action toggle switcher-trigger" href="https://nenghihi.com/"
+                    <a class="action toggle switcher-trigger" href="https://nengfajar.com/"
                         title="Daftar Keinginan">
 
                         <span class="abs-visually-hidden">Daftar Keinginan</span>
@@ -6762,7 +6762,7 @@ font-size:12px;
                 </div>
 
                 <div data-block="minicart" class="minicart-wrapper">
-                    <a class="action showcart" href="https://nenghihi.com/"
+                    <a class="action showcart" href="https://nengfajar.com/"
                         data-bind="scope: 'minicart_content'">
                         <span class="text empty" data-bind="
             css: {
@@ -6919,7 +6919,7 @@ font-size:12px;
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "NENGHOKI",
-  "url": "https://nenghihi.com/",
+  "url": "https://nengfajar.com/",
   "logo": "https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif",
   "description": "Rasakan pengalaman bermain yang lebih maksimal bersama NENGHOKI, platform hiburan digital dengan server terbaik di Indonesia. Didukung performa server yang stabil, proses transaksi yang cepat, serta koleksi permainan terlengkap, NENGHOKI siap menghadirkan kenyamanan dan keseruan di setiap momen bermain.",
   "foundingDate": "2024",
@@ -7226,7 +7226,7 @@ font-size:12px;
                                 </div>
                                 <div class="product-config">
                                     <div class="product-add-form">
-                                        <form data-product-sku="52135545-AYO01" action="https://nenghihi.com/" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
+                                        <form data-product-sku="52135545-AYO01" action="https://nengfajar.com/" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
                                             <input type="hidden" name="product" value="600193">
                                             <input type="hidden" name="selected_configurable_option" value="">
                                             <input type="hidden" name="related_product" id="related-products-field"
@@ -7461,14 +7461,14 @@ function myFunction() {
                                                 width="608" height="608">
                                         </div>
 
-                                        <a href="https://nenghihi.com/" class="prev" tabindex="-1">
+                                        <a href="https://nengfajar.com/" class="prev" tabindex="-1">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24"
                                                 stroke="currentColor">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                                     d="M15 19l-7-7 7-7"></path>
                                             </svg>
                                         </a>
-                                        <a href="https://nenghihi.com/" class="next" tabindex="-1">
+                                        <a href="https://nengfajar.com/" class="next" tabindex="-1">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24"
                                                 stroke="currentColor">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -7477,14 +7477,14 @@ function myFunction() {
                                         </a>
 
                                         <div class="controls">
-                                            <a href="https://nenghihi.com/" class="zoom zoom-in">
+                                            <a href="https://nengfajar.com/" class="zoom zoom-in">
                                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24"
                                                     stroke="currentColor" stroke-width="2">
                                                     <path stroke-linecap="round" stroke-linejoin="round"
                                                         d="M12 4v16m8-8H4"></path>
                                                 </svg>
                                             </a>
-                                            <a href="https://nenghihi.com/" class="zoom zoom-out">
+                                            <a href="https://nengfajar.com/" class="zoom zoom-out">
                                                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24"
                                                     stroke="currentColor" stroke-width="2">
                                                     <path stroke-linecap="round" stroke-linejoin="round" d="M20 12H4">
@@ -7493,7 +7493,7 @@ function myFunction() {
                                             </a>
                                         </div>
 
-                                        <a href="https://nenghihi.com/" class="close">
+                                        <a href="https://nengfajar.com/" class="close">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24"
                                                 stroke="currentColor">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -7503,55 +7503,55 @@ function myFunction() {
                                     </div>
 
                                     <div class="thumbnails ">
-                                        <a class="item active" href="https://nenghihi.com/" title="View Image">
+                                        <a class="item active" href="https://nengfajar.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
                                                     src="https://nenghoki1.pages.dev/nenghoki1/1013a068-3ba2-43e6-ba7a-9b4144779918.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://nenghihi.com/" title="View Image">
+                                        <a class="item" href="https://nengfajar.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
                                                     src="https://nenghoki1.pages.dev/nenghoki1/1013a068-3ba2-43e6-ba7a-9b4144779918.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://nenghihi.com/" title="View Image">
+                                        <a class="item" href="https://nengfajar.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
                                                     src="https://nenghoki1.pages.dev/nenghoki1/1013a068-3ba2-43e6-ba7a-9b4144779918.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://nenghihi.com/" title="View Image">
+                                        <a class="item" href="https://nengfajar.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
                                                     src="https://nenghoki1.pages.dev/nenghoki1/1013a068-3ba2-43e6-ba7a-9b4144779918.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://nenghihi.com/" title="View Image">
+                                        <a class="item" href="https://nengfajar.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
                                                     src="https://nenghoki1.pages.dev/nenghoki1/1013a068-3ba2-43e6-ba7a-9b4144779918.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://nenghihi.com/" title="View Image">
+                                        <a class="item" href="https://nengfajar.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
                                                     src="https://nenghoki1.pages.dev/nenghoki1/1013a068-3ba2-43e6-ba7a-9b4144779918.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://nenghihi.com/" title="View Image">
+                                        <a class="item" href="https://nengfajar.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
                                                     src="https://nenghoki1.pages.dev/nenghoki1/1013a068-3ba2-43e6-ba7a-9b4144779918.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://nenghihi.com/" title="View Image">
+                                        <a class="item" href="https://nengfajar.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
                                                     src="https://nenghoki1.pages.dev/nenghoki1/1013a068-3ba2-43e6-ba7a-9b4144779918.png">
                                             </span>
                                         </a>
-                                        <a class="item" href="https://nenghihi.com/" title="View Image">
+                                        <a class="item" href="https://nengfajar.com/" title="View Image">
                                             <span class="slide-image-container">
                                                 <img loading="lazy" alt=""
                                                     src="https://nenghoki1.pages.dev/nenghoki1/1013a068-3ba2-43e6-ba7a-9b4144779918.png">
@@ -9381,19 +9381,14 @@ function myFunction() {
                                 <div class="bt-container">
                                     <div class="bt-heading">
                                         <span class="bt-badge">Tentang NENGHOKI</span>
-                                        <h2>NENGHOKI – Server Terbaik di Indonesia, Pilihan Utama Para Pecinta Game Online!
-                                            Terbesar</h2>
+                                        <h2>NENGHOKI – Server Terbaik di Indonesia, Pilihan Utama Para Pecinta Game Online!</h2>
                                         <p>
-                                            <a href="https://nenghihi.com/" style="color: #fed804;">NENGHOKI</a>
-                                            NENGHOKI menghadirkan akses informasi seputar Bandar Toto Macau 4D dengan
-                                            pembaruan Live Result
-                                            yang cepat dan mudah diikuti. Melalui halaman ini, pengunjung dapat memperoleh
-                                            informasi hasil terbaru,
-                                            data keluaran, serta pembaruan yang dilakukan secara berkala sehingga lebih praktis
-                                            saat mencari hasil
-                                            Toto Macau setiap harinya. Tampilan yang sederhana juga membantu pengguna
-                                            menemukan
-                                            informasi yang dibutuhkan tanpa proses yang rumit.
+                                            <a href="https://nengfajar.com/" style="color: #fed804;">NENGHOKI</a>
+                                            Rasakan pengalaman bermain yang lebih maksimal bersama NENGHOKI,
+                                            platform hiburan digital dengan server terbaik di Indonesia.
+                                            didukung performa server yang stabil, proses transaksi
+                                            yang cepat, serta koleksi permainan terlengkap, nenghoki siap
+                                            menghadirkan kenyamanan dan keseruan di setiap momen bermain.
                                         </p>
                                         <br>
                                         <p>
@@ -11870,35 +11865,35 @@ function myFunction() {
                                         data-appearance="default" data-element="main">NENGHOKI</h4>
                                     <div data-content-type="html" data-appearance="default" data-element="main"
                                         data-decoded="true">
-                                        <p><a href="https://nenghihi.com/">TOTO MACAU</a></p>
+                                        <p><a href="https://nengfajar.com/">TOTO MACAU</a></p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main"
                                         data-decoded="true">
-                                        <p><a href="https://nenghihi.com/">MACAU 4D</a></p>
+                                        <p><a href="https://nengfajar.com/">MACAU 4D</a></p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main"
                                         data-decoded="true">
-                                        <p><a href="https://nenghihi.com/">TOTO MACAU 4D</a></p>
+                                        <p><a href="https://nengfajar.com/">TOTO MACAU 4D</a></p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main"
                                         data-decoded="true">
-                                        <p><a href="https://nenghihi.com/">BANDAR TOTO MACAU</a></p>
+                                        <p><a href="https://nengfajar.com/">BANDAR TOTO MACAU</a></p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main"
                                         data-decoded="true">
-                                        <p><a href="https://nenghihi.com/">RESULT TOTO MACAU</a></p>
+                                        <p><a href="https://nengfajar.com/">RESULT TOTO MACAU</a></p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main"
                                         data-decoded="true">
-                                        <p><a href="https://nenghihi.com/">LIVE RESULT MACAU</a></p>
+                                        <p><a href="https://nengfajar.com/">LIVE RESULT MACAU</a></p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main"
                                         data-decoded="true">
-                                        <p><a href="https://nenghihi.com/">LINK TOTO MACAU</a></p>
+                                        <p><a href="https://nengfajar.com/">LINK TOTO MACAU</a></p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main"
                                         data-decoded="true">
-                                        <p><a href="https://nenghihi.com/">OFFICIAL TOTO MACAU 2026</a></p>
+                                        <p><a href="https://nengfajar.com/">OFFICIAL TOTO MACAU 2026</a></p>
                                     </div>
                                 </div>
                                 <div class="pagebuilder-column need-help-column-mc" data-content-type="column"
@@ -11908,11 +11903,11 @@ function myFunction() {
                                         data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4>
                                     <div data-content-type="html" data-appearance="default" data-element="main"
                                         data-decoded="true">
-                                        <p><a href="https://nenghihi.com/">hubungi kami</a></p>
+                                        <p><a href="https://nengfajar.com/">hubungi kami</a></p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main"
                                         data-decoded="true">
-                                        <p><a href="https://nenghihi.com/">bantuan dan faq</a></p>
+                                        <p><a href="https://nengfajar.com/">bantuan dan faq</a></p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main"
                                         data-decoded="true">
@@ -11924,13 +11919,13 @@ function myFunction() {
                                         <div class="footer-desktop">
                                             <p>ikuti kami di media sosial</p>
                                             <div style="display:flex;column-gap:20px">
-                                                <a class="item" href="https://nenghihi.com/"><img width="10"
+                                                <a class="item" href="https://nengfajar.com/"><img width="10"
                                                         height="19" alt="facebook icon"
                                                         src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
-                                                <a class="item" href="https://nenghihi.com/"><img width="24"
+                                                <a class="item" href="https://nengfajar.com/"><img width="24"
                                                         height="25" alt="instagram icon"
                                                         src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
-                                                <a class="item" href="https://nenghihi.com/"> <img width="24"
+                                                <a class="item" href="https://nengfajar.com/"> <img width="24"
                                                         height="25" alt="youtube icon"
                                                         src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a>
                                             </div>
@@ -11989,13 +11984,13 @@ function myFunction() {
                                         <div class="footer-mobile" style="text-align:center;margin-top:15px;">
                                             <p>ikuti kami di media sosial</p>
                                             <div style="display:flex;column-gap:20px;justify-content: center;">
-                                                <a class="item" href="https://nenghihi.com/"><img
+                                                <a class="item" href="https://nengfajar.com/"><img
                                                         src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"
                                                         alt="facebook icon"></a>
-                                                <a class="item" href="https://nenghihi.com/"><img
+                                                <a class="item" href="https://nengfajar.com/"><img
                                                         src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"
                                                         alt="instagram icon"></a>
-                                                <a class="item" href="https://nenghihi.com/"> <img
+                                                <a class="item" href="https://nengfajar.com/"> <img
                                                         src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"
                                                         alt="youtube icon"></a>
                                             </div>
@@ -12013,7 +12008,7 @@ function myFunction() {
                                             <span><img loading="lazy" width="359" height="90"
                                                     src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png"
                                                     alt="mothercare payment method"></span>
-                                            <span><a target="_blank" href="https://nenghihi.com/"><img
+                                            <span><a target="_blank" href="https://nengfajar.com/"><img
                                                         loading="lazy" width="117" height="60"
                                                         style="max-height: 60px;margin:0 auto 15px;"
                                                         src="https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif"
@@ -12477,7 +12472,7 @@ function myFunction() {
                         "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                         "config": {
                             "multipleWishlistOptions": {
-                                "createUrl": "https://nenghihi.com/",
+                                "createUrl": "https://nengfajar.com/",
                                 "wishlistLink": ".action.towishlist"
                             }
                         }
