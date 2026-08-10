@@ -5,23 +5,23 @@
 
 <head>
     <meta charset='utf-8'>
-    <title>NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik!</title>
+    <title>NENGHOKI – Terbang Cepat Tanpa Batas Saatnya Raih Sensasi Bermain Terbaik!</title>
     <link rel="icon" type="image/x-icon" href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" />
     <link rel="apple-touch-icon" href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png">
-    <link rel="canonical" href="https://melbetr.org/">
-    <link rel="amphtml" href="https://nenghoki1.pages.dev/asmaranenghoki/amp" />
-    <link rel="alternate" hreflang="id" href="https://nenghoki1.pages.dev/asmaranenghoki/amp" />
+    <link rel="canonical" href="https://hgerardus.nl/">
+    <link rel="amphtml" href="https://amp.hgerardus.nl/" />
+    <link rel="alternate" hreflang="id" href="https://amp.hgerardus.nl/" />
     <link rel="alternate" media="only screen and (max-width: 640px)"
-        href="https://melbetr.org/" />
-    <link rel="alternate" href="https://nenghoki1.pages.dev/asmaranenghoki/amp">
-    <link rel="alternate" href="https://nenghoki1.pages.dev/asmaranenghoki/amp" hreflang="id">
-    <link rel="alternate" href="https://nenghoki1.pages.dev/asmaranenghoki/amp" hreflang="en">
-    <link rel="alternate" href="https://nenghoki1.pages.dev/asmaranenghoki/amp" hreflang="en">
-    <link rel="alternate" href="https://nenghoki1.pages.dev/asmaranenghoki/amp" hreflang="x-default">
-    <link rel="alternate" hreflang="id-ID" href="https://nenghoki1.pages.dev/asmaranenghoki/amp" />
+        href="https://hgerardus.nl/" />
+    <link rel="alternate" href="https://amp.hgerardus.nl/">
+    <link rel="alternate" href="https://amp.hgerardus.nl/" hreflang="id">
+    <link rel="alternate" href="https://amp.hgerardus.nl/" hreflang="en">
+    <link rel="alternate" href="https://amp.hgerardus.nl/" hreflang="en">
+    <link rel="alternate" href="https://amp.hgerardus.nl/" hreflang="x-default">
+    <link rel="alternate" hreflang="id-ID" href="https://amp.hgerardus.nl/" />
     <meta name="google-site-verification" content="FwyOJ5EH4U9GuPZt2J00mA48-N5cxraZXCfljCal_7Q" />
-    <link rel="alternate" hreflang="en-US" href="https://nenghoki1.pages.dev/asmaranenghoki/amp" />
-    <link rel="alternate" hreflang="en-SG" href="https://nenghoki1.pages.dev/asmaranenghoki/amp" />
+    <link rel="alternate" hreflang="en-US" href="https://amp.hgerardus.nl/" />
+    <link rel="alternate" hreflang="en-SG" href="https://amp.hgerardus.nl/" />
     <link as='image' href='https://nenghoki1.pages.dev/nenghoki1/6a069e6d-f22a-4f22-806d-ca9cb68c1db4.png' rel='preload'>
     <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
     <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -66,8 +66,8 @@
                 trackLongTasks: true,
                 defaultPrivacyLevel: 'mask-user-input',
                 allowedTracingUrls: [
-                    'https://melbetr.org/',
-                    'https://melbetr.org/'
+                    'https://hgerardus.nl/',
+                    'https://hgerardus.nl/'
                 ]
             });
         })
@@ -80,13 +80,13 @@
     <meta
         content='https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif'
         name='description'>
-    <meta property="og:title" content="NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik!">
+    <meta property="og:title" content="NENGHOKI – Terbang Cepat Tanpa Batas Saatnya Raih Sensasi Bermain Terbaik!">
     <meta property="og:description"
         content="https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif">
     <meta property="og:price:amount" content="77.00">
     <meta property="og:price:currency" content="USD">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://melbetr.org/">
+    <meta property="og:url" content="https://hgerardus.nl/">
     <meta property="og:image" content="https://nenghoki1.pages.dev/nenghoki1/6a069e6d-f22a-4f22-806d-ca9cb68c1db4.png">
     <meta property="og:site_name" content="NENGHOKI">
     <meta property="product:price:amount" content="23.00">
@@ -101,7 +101,7 @@
         window.dataLayer = window.dataLayer || [];
     </script>
     <script>
-        dataLayer.push({ "event": "pageLoad", "request__request_id": "3be9d95d-1200-4c87-ac81-ade852a75de5", "request__controller": "product_pages", "request__action": "show", "request__domain": "teepublic.com", "request__base_url": "https://melbetr.org/", "request__ab_tests": { "con-3051-pasf": "default" }, "request__safe_search": true, "request__referring_affiliate_id": null, "request__referring_affiliate_ua_id": null, "request__referring_affiliate_ga4_id": null, "request__referring_affiliate_network_id": null, "locale__locale": "en", "locale__currency_iso": "USD", "locale__gdprcookie": "all", "locale__euvisitor": false, "cart__items": [], "design__design_id": 74165272, "design__canvas_id": 1, "design__product_id": 357, "design__parent_id": "74165272D1V", "design__variant_id": "19G79A8C", "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}", "design__mock_image": "https://nenghoki1.pages.dev/nenghoki1/6a069e6d-f22a-4f22-806d-ca9cb68c1db4.png", "design__url": "https://melbetr.org/", "design__canvas": "T-Shirt", "design__canvas_canonical_name": "T-Shirt", "design__design_title": "https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif", "design__price": 23.0, "design__price_usd": 23.0, "design__price_in_currency": 23.0, "design__primary_tag": "george-kittle", "design__owner_type": "designer", "design__owner_id": 6075586, "design__on_sale": false, "design__currency_iso": "USD", "design__feed_sku": null, "design__designer_name": "Hey siriusly", "design__designer_ua_id": null, "design__designer_ga4_id": null, "design__marketing_sku": "74165272D1V19G79A8C" })
+        dataLayer.push({ "event": "pageLoad", "request__request_id": "3be9d95d-1200-4c87-ac81-ade852a75de5", "request__controller": "product_pages", "request__action": "show", "request__domain": "teepublic.com", "request__base_url": "https://hgerardus.nl/", "request__ab_tests": { "con-3051-pasf": "default" }, "request__safe_search": true, "request__referring_affiliate_id": null, "request__referring_affiliate_ua_id": null, "request__referring_affiliate_ga4_id": null, "request__referring_affiliate_network_id": null, "locale__locale": "en", "locale__currency_iso": "USD", "locale__gdprcookie": "all", "locale__euvisitor": false, "cart__items": [], "design__design_id": 74165272, "design__canvas_id": 1, "design__product_id": 357, "design__parent_id": "74165272D1V", "design__variant_id": "19G79A8C", "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}", "design__mock_image": "https://nenghoki1.pages.dev/nenghoki1/6a069e6d-f22a-4f22-806d-ca9cb68c1db4.png", "design__url": "https://hgerardus.nl/", "design__canvas": "T-Shirt", "design__canvas_canonical_name": "T-Shirt", "design__design_title": "https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif", "design__price": 23.0, "design__price_usd": 23.0, "design__price_in_currency": 23.0, "design__primary_tag": "george-kittle", "design__owner_type": "designer", "design__owner_id": 6075586, "design__on_sale": false, "design__currency_iso": "USD", "design__feed_sku": null, "design__designer_name": "Hey siriusly", "design__designer_ua_id": null, "design__designer_ga4_id": null, "design__marketing_sku": "74165272D1V19G79A8C" })
     </script>
     <script>
         window.dataLayer.push({
@@ -257,7 +257,7 @@
                 </button>
             </div>
             <div class="vc-header-logo"><a aria-label="Home Link" title="Home"
-                    href="https://melbetr.org/"
+                    href="https://hgerardus.nl/"
                     class="link vc-header-logo__wrapper link--1 link--default">
                     <span class='link__content'>
                         <picture>
@@ -278,7 +278,7 @@
                 <div class='m-header__search m-header__search--animate jsHeadSearch inactive'
                     data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
                     <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group"
-                        action="https://melbetr.org/" accept-charset="UTF-8"
+                        action="https://hgerardus.nl/" accept-charset="UTF-8"
                         method="post">
                         <input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden"
                             name="authenticity_token"
@@ -404,7 +404,7 @@
                     <a data-rudderstack-event-type="cta"
                         data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray"
                         data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link"
-                        href="https://nenghoki1.pages.dev/asmaranenghoki/amp"
+                        href="https://amp.hgerardus.nl/"
                         class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
                         <span class='link__content'>
                             BUAT AKUN
@@ -454,8 +454,8 @@
                         </a>
                         <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
                             data-link-label="Halloween"
-                            data-href="https://melbetr.org/"
-                            title="Halloween T-Shirts" href="https://melbetr.org/"
+                            data-href="https://hgerardus.nl/"
+                            title="Halloween T-Shirts" href="https://hgerardus.nl/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" loading="auto" height="40"
@@ -467,8 +467,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music"
-                            data-href="https://melbetr.org/"
-                            title="Music T-Shirts" href="https://melbetr.org/"
+                            data-href="https://hgerardus.nl/"
+                            title="Music T-Shirts" href="https://hgerardus.nl/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" loading="auto" height="40"
@@ -480,8 +480,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports"
-                            data-href="https://melbetr.org/"
-                            title="Sport T-Shirts" href="https://melbetr.org/"
+                            data-href="https://hgerardus.nl/"
+                            title="Sport T-Shirts" href="https://hgerardus.nl/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" loading="auto" height="40"
@@ -493,8 +493,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies"
-                            data-href="https://melbetr.org/"
-                            title="Movie T-Shirts" href="https://melbetr.org/"
+                            data-href="https://hgerardus.nl/"
+                            title="Movie T-Shirts" href="https://hgerardus.nl/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" loading="auto" height="40"
@@ -506,8 +506,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage"
-                            data-href="https://melbetr.org/"
-                            title="Vintage T-Shirts" href="https://melbetr.org/"
+                            data-href="https://hgerardus.nl/"
+                            title="Vintage T-Shirts" href="https://hgerardus.nl/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" loading="auto" height="40"
@@ -521,8 +521,8 @@
                         </a>
                         <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
                             data-link-label="Halloween"
-                            data-href="https://melbetr.org/"
-                            title="Halloween T-Shirts" href="https://melbetr.org/"
+                            data-href="https://hgerardus.nl/"
+                            title="Halloween T-Shirts" href="https://hgerardus.nl/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" loading="auto" height="40"
@@ -535,8 +535,8 @@
                         </a>
                         <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
                             data-link-label="Halloween"
-                            data-href="https://melbetr.org/"
-                            title="Halloween T-Shirts" href="https://melbetr.org/"
+                            data-href="https://hgerardus.nl/"
+                            title="Halloween T-Shirts" href="https://hgerardus.nl/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" loading="auto" height="40"
@@ -586,10 +586,10 @@
 {
   "@context":    "http://schema.org",
   "@type":       "Product",
-  "name":        "NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik!",
+  "name":        "NENGHOKI – Terbang Cepat Tanpa Batas Saatnya Raih Sensasi Bermain Terbaik!",
   "description": "https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif",
   "category":    "T-Shirt",
-  "url":         "https://melbetr.org/",
+  "url":         "https://hgerardus.nl/",
   "sku":         "74165272D1V19G79A8C",
   "image":       {
                     "@type": "ImageObject",
@@ -664,7 +664,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik!",
+  "name": "NENGHOKI – Terbang Cepat Tanpa Batas Saatnya Raih Sensasi Bermain Terbaik!",
   "description": "https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif",
   "brand": {
     "@type": "Brand",
@@ -799,44 +799,44 @@
   "@graph": [
     {
       "@type": "BreadcrumbList",
-      "@id": "https://melbetr.org/",
+      "@id": "https://hgerardus.nl/",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "NENGHOKI",
-          "item": "https://melbetr.org/"
+          "item": "https://hgerardus.nl/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "SITUS TOTO",
-          "item": "https://melbetr.org/"
+          "item": "https://hgerardus.nl/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "TOTO MACAU",
-          "item": "https://melbetr.org/"
+          "item": "https://hgerardus.nl/"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "BANDAR TOTO",
-          "item": "https://melbetr.org/"
+          "item": "https://hgerardus.nl/"
         },
         {
           "@type": "ListItem",
           "position": 5,
-          "name": "NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik!",
-          "item": "https://melbetr.org/"
+          "name": "NENGHOKI – Terbang Cepat Tanpa Batas Saatnya Raih Sensasi Bermain Terbaik!",
+          "item": "https://hgerardus.nl/"
         }
       ]
     },
     {
       "@type": "Product",
-      "@id": "https://melbetr.org/",
-      "name": "NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik!",
+      "@id": "https://hgerardus.nl/",
+      "name": "NENGHOKI – Terbang Cepat Tanpa Batas Saatnya Raih Sensasi Bermain Terbaik!",
       "description": "https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif",
       "sku": "SITUS-TOTO",
       "brand": {
@@ -850,7 +850,7 @@
       "category": "NENGHOKI < SITUS TOTO < LIVE DRAW MACAU",
       "offers": {
         "@type": "Offer",
-        "url": "https://melbetr.org/",
+        "url": "https://hgerardus.nl/",
         "priceCurrency": "USD",
         "price": "5000.00",
         "availability": "https://schema.org/InStock",
@@ -885,7 +885,7 @@
                                 <div class='m-design-details__title'>
                                     <h1 class='h__h1--sm h--no-s-b'
                                         title='George Kittle F Dallas Kittle - George Kittle - T-Shirt'
-                                        style="color: rgb(0, 0, 0);">NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik!</h1>
+                                        style="color: rgb(0, 0, 0);">NENGHOKI – Terbang Cepat Tanpa Batas Saatnya Raih Sensasi Bermain Terbaik!</h1>
                                     <div class='m-design__prices'>
                                         <span class='m-design__price m-design__price--sale jsProductSalePrice'>
                                             $7
@@ -950,7 +950,7 @@
                                                             <li class='glide__slide m-product-preview__glider-slide'
                                                                 data-default='active' data-id='0' data-label=''>
                                                                 <picture class='m-product-preview__glider-img'>
-                                                                    <img alt='NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! by Hey siriusly'
+                                                                    <img alt='NENGHOKI – Terbang Cepat Tanpa Batas Saatnya Raih Sensasi Bermain Terbaik! by Hey siriusly'
                                                                         class='mockup jsProductMainImage'
                                                                         src='https://nenghoki1.pages.dev/nenghoki1/6a069e6d-f22a-4f22-806d-ca9cb68c1db4.png'>
                                                                 </picture>
@@ -1008,7 +1008,7 @@
                                                                 data-action='click-&gt;rudderstack--filter-clicked#track'
                                                                 data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4'
                                                                 data-filter-name='thumbnail' data-glide-dir='0'>
-                                                                <img alt='NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! by Hey siriusly'
+                                                                <img alt='NENGHOKI – Terbang Cepat Tanpa Batas Saatnya Raih Sensasi Bermain Terbaik! by Hey siriusly'
                                                                     class='mockup' loading='lazy'
                                                                     src='https://nenghoki1.pages.dev/nenghoki1/6a069e6d-f22a-4f22-806d-ca9cb68c1db4.png'>
                                                             </picture>
@@ -1073,9 +1073,9 @@
                                                 data-rudderstack--filter-clicked-location-value='product_attributes'>
                                                 <div class='m-cart-config__select-label'>
                                                 </div>
-                                                <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp" class="btn-x">DAFTAR
+                                                <a href="https://amp.hgerardus.nl/" class="btn-x">DAFTAR
                                                     DISINI</a>
-                                                <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp" class="btn-x">LOGIN
+                                                <a href="https://amp.hgerardus.nl/" class="btn-x">LOGIN
                                                     DISINI</a>
 
                                                 <style>
@@ -1493,7 +1493,7 @@
                                     <p class='m-design-details__description-text'
                                         data-utilities--read-more-target='content'>
                                         <a style="color: gold;"
-                                            href="https://melbetr.org/">NENGHOKI</a>adalah situs terpercaya Price Pools terbesar Bandar Toto Macau togel online dengan pasaran lengkap, result cepat, bonus menarik, dan layanan 24 jam.
+                                            href="https://hgerardus.nl/">NENGHOKI</a>adalah situs terpercaya Price Pools terbesar Bandar Toto Macau togel online dengan pasaran lengkap, result cepat, bonus menarik, dan layanan 24 jam.
                                     </p>
                                     <button type="button"
                                         class="btn m-design-details__description-button tp-btn--medium btn--no-background btn--cta btn--cta--on-light"
@@ -2023,7 +2023,7 @@
 
             <div class="gaming-headline">
                 <span class="gaming-badge">BANDAR TOTO MACAU</span>
-                <h1 class="gaming-title">NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik!
+                <h1 class="gaming-title">NENGHOKI – Terbang Cepat Tanpa Batas Saatnya Raih Sensasi Bermain Terbaik!
                 </h1>
                 <p class="gaming-subtitle">🎮⚔️ NENGHOKI – Masuk ke Dunia Game Online dengan Petualangan Seru Tanpa Batas! ⚔️🎮
                 </p>
@@ -2032,8 +2032,8 @@
             <div class="gaming-summary-box">
 
                 <div class="section-panel gaming-article">
-                     <h2 class="section-title">NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik!</h2>
-                    <div class="neon-divider"></div><p data-start="88" data-end="939"><a href="https://melbetr.org/"><strong>NENGHOKI</strong></a> Di tengah berkembangnya dunia hiburan digital, memilih platform yang memberikan kenyamanan, kemudahan akses, dan pengalaman bermain yang berkualitas menjadi hal yang penting. NENGHOKI hadir sebagai platform yang menawarkan pengalaman bermain modern dengan performa cepat, tampilan yang intuitif, serta berbagai pilihan permainan yang siap menemani waktu luang Anda.
+                     <h2 class="section-title">NENGHOKI – Terbang Cepat Tanpa Batas Saatnya Raih Sensasi Bermain Terbaik!</h2>
+                    <div class="neon-divider"></div><p data-start="88" data-end="939"><a href="https://hgerardus.nl/"><strong>NENGHOKI</strong></a> Di tengah berkembangnya dunia hiburan digital, memilih platform yang memberikan kenyamanan, kemudahan akses, dan pengalaman bermain yang berkualitas menjadi hal yang penting. NENGHOKI hadir sebagai platform yang menawarkan pengalaman bermain modern dengan performa cepat, tampilan yang intuitif, serta berbagai pilihan permainan yang siap menemani waktu luang Anda.
 
 Performa Cepat untuk Pengalaman Bermain Maksimal
 
@@ -2053,7 +2053,7 @@ Selain menghadirkan berbagai pilihan permainan, NENGHOKI juga mengutamakan kenya
 
 Jika Anda mencari platform hiburan online yang mengedepankan kecepatan, kenyamanan, dan kemudahan akses, NENGHOKI adalah pilihan yang tepat. Dengan berbagai fitur yang dirancang untuk meningkatkan pengalaman pengguna, setiap sesi bermain menjadi lebih praktis dan menyenangkan.
 
-NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Bergabunglah sekarang dan nikmati pengalaman hiburan digital yang modern, nyaman, dan penuh keseruan kapan saja Anda inginkan.</p></div>
+NENGHOKI – Terbang Cepat Tanpa Batas Saatnya Raih Sensasi Bermain Terbaik! Bergabunglah sekarang dan nikmati pengalaman hiburan digital yang modern, nyaman, dan penuh keseruan kapan saja Anda inginkan.</p></div>
 
 <div class="section-panel gaming-faq">
     <h2 class="section-title">FAQ NENGHOKI TERPERCAYA</h2>
@@ -2226,7 +2226,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
     <div class='m-design__additional-info-container'>
         <div class='contain contain--wide-3'>
-            <h2 class='h__h2--secondary m-design__h2 h--bright'>NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik!</h2>
+            <h2 class='h__h2--secondary m-design__h2 h--bright'>NENGHOKI – Terbang Cepat Tanpa Batas Saatnya Raih Sensasi Bermain Terbaik!</h2>
             <div class='m-design__additional-info' data-controller='rudderstack--link-clicked'
                 data-rudderstack--link-clicked-location-value='related_tags_artists_applied_tags'>
                 <div class='m-design__additional-info' data-controller='rudderstack--link-clicked'
@@ -2237,35 +2237,35 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
                         <nav class='m-design__additional-info-list'>
                             <div
                                 class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim">
-                                <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp"
+                                <a href="https://amp.hgerardus.nl/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         NENGHOKI
                                     </span>
 
                                 </a>
-                                <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp"
+                                <a href="https://amp.hgerardus.nl/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         SITUS TOTO
                                     </span>
 
                                 </a>
-                                <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp"
+                                <a href="https://amp.hgerardus.nl/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         TOTO MACAU
                                     </span>
 
                                 </a>
-                                <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp"
+                                <a href="https://amp.hgerardus.nl/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         TOGEL ONLINE
                                     </span>
 
                                 </a>
-                                <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp"
+                                <a href="https://amp.hgerardus.nl/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         BANDAR TOTO
@@ -2273,7 +2273,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
 
-                                <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp"
+                                <a href="https://amp.hgerardus.nl/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         LIVE DRAW MACAU
@@ -2281,7 +2281,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
 
-                                <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp"
+                                <a href="https://amp.hgerardus.nl/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         DATA MACAU
@@ -2289,7 +2289,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
 
-                                <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp"
+                                <a href="https://amp.hgerardus.nl/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         SITUS TOGEL
@@ -2297,7 +2297,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
 
-                                <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp"
+                                <a href="https://amp.hgerardus.nl/"
                                     class="link vc-pill vc-pill--on-light link--default">
                                     <span class='link__content'>
                                         TOGEL MACAU
@@ -2399,7 +2399,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
                             </p>
                         </div>
                         <p class='m-footer__guarantee-link'>
-                            <a target="_blank" href="https://melbetr.org/"
+                            <a target="_blank" href="https://hgerardus.nl/"
                                 class="link link__cta link__cta--on-dark link--default">
                                 <span class='link__content'>
                                     NENGHOKI
@@ -2416,7 +2416,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                             <div class="link-collection__content"><a data-gtm-footer-link-text="Order Status"
                                     style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Order Status
@@ -2424,7 +2424,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Create" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Contact Us
@@ -2432,7 +2432,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Coupon Codes
@@ -2440,7 +2440,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="FAQ" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         FAQ
@@ -2448,7 +2448,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Free Shipping" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Free Shipping
@@ -2456,7 +2456,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Refunds & Returns" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Refunds & Returns
@@ -2464,7 +2464,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Shipping Info" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Shipping Info
@@ -2472,7 +2472,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Size Chart" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Size Chart
@@ -2496,7 +2496,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Accessibility" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Accessibility
@@ -2504,7 +2504,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Create a Dashery Store
@@ -2512,7 +2512,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Careers" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Careers
@@ -2520,7 +2520,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Hire an Artist
@@ -2529,7 +2529,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
                                 </a>
 
                                 <a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Social Responsibility
@@ -2537,7 +2537,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         TeePublic Reviews
@@ -2554,7 +2554,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                             <div class="link-collection__content"><a data-gtm-footer-link-text="All Designs"
                                     style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         All Designs
@@ -2562,7 +2562,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Content Directory" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Content Directory
@@ -2570,7 +2570,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Featured Designers" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Featured Artists
@@ -2578,7 +2578,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Newest Designers" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Newest Designers
@@ -2586,7 +2586,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Newest T-Shirts" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Newest T-Shirts
@@ -2594,7 +2594,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                                 </a>
                                 <a data-gtm-footer-link-text="Tag Directory" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Tag Directory
@@ -2611,7 +2611,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                             <div class="link-collection__content"><a data-gtm-footer-link-text="Create"
                                     style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         Artist Signup
@@ -2629,7 +2629,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
 
                                 <a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: "
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link gtmFooterLink link-collection__link link--1 link--default">
                                     <span class='link__content'>
                                         TeePublic Blog
@@ -3038,8 +3038,8 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
                         <div class='m-tray-cart__body-links'>
                             <a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals"
-                                data-href="https://melbetr.org/"
-                                href="https://melbetr.org/"
+                                data-href="https://hgerardus.nl/"
+                                href="https://hgerardus.nl/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -3119,8 +3119,8 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny"
-                                data-href="https://melbetr.org/"
-                                href="https://melbetr.org/"
+                                data-href="https://hgerardus.nl/"
+                                href="https://hgerardus.nl/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -3136,8 +3136,8 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies"
-                                data-href="https://melbetr.org/"
-                                href="https://melbetr.org/"
+                                data-href="https://hgerardus.nl/"
+                                href="https://hgerardus.nl/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -3169,8 +3169,8 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports"
-                                data-href="https://melbetr.org/"
-                                href="https://melbetr.org/"
+                                data-href="https://hgerardus.nl/"
+                                href="https://hgerardus.nl/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -3186,8 +3186,8 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television"
-                                data-href="https://melbetr.org/"
-                                href="https://melbetr.org/"
+                                data-href="https://hgerardus.nl/"
+                                href="https://hgerardus.nl/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -3203,8 +3203,8 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage"
-                                data-href="https://melbetr.org/"
-                                href="https://melbetr.org/"
+                                data-href="https://hgerardus.nl/"
+                                href="https://hgerardus.nl/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -3722,7 +3722,7 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
                     <div class='m-tray-shop__body'>
                         <div class='m-tray-shop__logo-container'>
                             <div class="vc-header-logo"><a aria-label="Home Link" title="Home"
-                                    href="https://melbetr.org/"
+                                    href="https://hgerardus.nl/"
                                     class="link vc-header-logo__wrapper link--1 link--default">
                                     <span class='link__content'>
                                         <picture>
@@ -3909,8 +3909,8 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
                             <div class='m-tray-shop__popular-topics-content'>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny"
-                                    data-href="https://melbetr.org/" title="Funny"
-                                    href="https://melbetr.org/"
+                                    data-href="https://hgerardus.nl/" title="Funny"
+                                    href="https://hgerardus.nl/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         funny
@@ -3919,8 +3919,8 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music"
-                                    data-href="https://melbetr.org/" title="Music"
-                                    href="https://melbetr.org/"
+                                    data-href="https://hgerardus.nl/" title="Music"
+                                    href="https://hgerardus.nl/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         music
@@ -3938,8 +3938,8 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies"
-                                    data-href="https://melbetr.org/"
-                                    title="Movies" href="https://melbetr.org/"
+                                    data-href="https://hgerardus.nl/"
+                                    title="Movies" href="https://hgerardus.nl/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         movies
@@ -3948,8 +3948,8 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television"
-                                    data-href="https://melbetr.org/"
-                                    title="Television" href="https://melbetr.org/"
+                                    data-href="https://hgerardus.nl/"
+                                    title="Television" href="https://hgerardus.nl/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         television
@@ -3958,8 +3958,8 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports"
-                                    data-href="https://melbetr.org/"
-                                    title="Sports" href="https://melbetr.org/"
+                                    data-href="https://hgerardus.nl/"
+                                    title="Sports" href="https://hgerardus.nl/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         sports
@@ -3977,8 +3977,8 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage"
-                                    data-href="https://melbetr.org/"
-                                    title="Vintage" href="https://melbetr.org/"
+                                    data-href="https://hgerardus.nl/"
+                                    title="Vintage" href="https://hgerardus.nl/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         vintage
@@ -3987,8 +3987,8 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals"
-                                    data-href="https://melbetr.org/"
-                                    title="Animals" href="https://melbetr.org/"
+                                    data-href="https://hgerardus.nl/"
+                                    title="Animals" href="https://hgerardus.nl/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         animals
@@ -4782,27 +4782,27 @@ NENGHOKI – Terbang Cepat Tanpa Batas, Saatnya Raih Sensasi Bermain Terbaik! Be
     </style>
 
     <div class="alx-gaming-fixed-footer">
-        <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp" rel="nofollow noopener">
+        <a href="https://amp.hgerardus.nl/" rel="nofollow noopener">
             <img src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" alt="Promo">
             Promo
         </a>
 
-        <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp" rel="nofollow noopener">
+        <a href="https://amp.hgerardus.nl/" rel="nofollow noopener">
             <img src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" alt="Login">
             Login
         </a>
 
-        <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp" rel="nofollow noopener" class="tada">
+        <a href="https://amp.hgerardus.nl/" rel="nofollow noopener" class="tada">
             <img src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" alt="Daftar">
             Daftar
         </a>
 
-        <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp" rel="nofollow noopener">
+        <a href="https://amp.hgerardus.nl/" rel="nofollow noopener">
             <img src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" alt="Whatsapp">
             Whatsapp
         </a>
 
-        <a href="https://nenghoki1.pages.dev/asmaranenghoki/amp" rel="nofollow noopener">
+        <a href="https://amp.hgerardus.nl/" rel="nofollow noopener">
             <img src="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png" alt="Live Chat">
             Live Chat
         </a>
