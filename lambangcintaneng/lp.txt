@@ -50,7 +50,7 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://$$$$$$$$$$$$$$$$$$$$/">
+    <link rel="canonical" href="https://summitmedtech.com/">
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -64,10 +64,10 @@
   },
   "sku": "NENGHOKI",
   "mpn": "77GCR-001",
-  "url": "https://$$$$$$$$$$$$$$$$$$$$/",
+  "url": "https://summitmedtech.com/",
   "offers": {
     "@type": "Offer",
-    "url": "https://$$$$$$$$$$$$$$$$$$$$/",
+    "url": "https://summitmedtech.com/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -121,31 +121,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "NENGHOKI",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://summitmedtech.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SITUS TOTO",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://summitmedtech.com/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "TOGEL ONLINE",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://summitmedtech.com/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "BANDAR TOGEL",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://summitmedtech.com/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "BANDAR TOGEL ONLINE",
-      "item": "https://$$$$$$$$$$$$$$$$$$$$/"
+      "item": "https://summitmedtech.com/"
     }
   ]
 }
@@ -156,7 +156,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "NENGHOKI",
-  "url": "https://$$$$$$$$$$$$$$$$$$$$/",
+  "url": "https://summitmedtech.com/",
   "logo": "https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif",
   "sameAs": [
     "https://www.facebook.com/TOGEL-ONLINE",
@@ -184,7 +184,7 @@
     <meta property="og:title" content="NENGHOKI – Server Thailand Permainan Lancar dan Performa Terbaik 2026">
     <meta property="og:description" content="NENGHOKI merupakan situs dengan server thailand sebagai dukungan hiburan digital membuat performa server yang stabil, akses yang responsif, dan beragam pilihan permainan popular yang gampang diakses."><meta property="og:image" content="https://img.culanseng.org/storage/images/nenghoki/nenghoki-2.webp" />
     <meta property="og:image:alt" content="NENGHOKI – Server Thailand Permainan Lancar dan Performa Terbaik 2026" />
-    <meta property="og:url" content="https://$$$$$$$$$$$$$$$$$$$$/">
+    <meta property="og:url" content="https://summitmedtech.com/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -196,7 +196,7 @@
     <meta name="twitter:image:alt" content="NENGHOKI – Server Thailand Permainan Lancar dan Performa Terbaik 2026" />
     <meta property="og:title" content="NENGHOKI – Server Thailand Permainan Lancar dan Performa Terbaik 2026">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://$$$$$$$$$$$$$$$$$$$$/">
+    <meta property="og:url" content="https://summitmedtech.com/">
     <meta property="og:image" content="https://img.culanseng.org/storage/images/nenghoki/nenghoki-2.webp" />
     <meta property="og:image:alt" content="NENGHOKI – Server Thailand Permainan Lancar dan Performa Terbaik 2026" />
     <meta property="og:description" content="NENGHOKI merupakan situs dengan server thailand sebagai dukungan hiburan digital membuat performa server yang stabil, akses yang responsif, dan beragam pilihan permainan popular yang gampang diakses.">
@@ -848,16 +848,16 @@
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://$$$$$$$$$$$$$$$$$$$$/">NENGHOKI</a>
-<a href="https://$$$$$$$$$$$$$$$$$$$$/">SITUS TOTO</a>
-<a href="https://$$$$$$$$$$$$$$$$$$$$/">TOGEL ONLINE</a>
-<a href="https://$$$$$$$$$$$$$$$$$$$$/">TOTO TOGEL</a>
-<a href="https://$$$$$$$$$$$$$$$$$$$$/">SITUS TOTO</a>
-<a href="https://$$$$$$$$$$$$$$$$$$$$/">NENGHOKI RESMI</a>
-<a href="https://$$$$$$$$$$$$$$$$$$$$/">SITUS GACOR</a>
-<a href="https://$$$$$$$$$$$$$$$$$$$$/">BANDAR TOGEL</a>
-<a href="https://$$$$$$$$$$$$$$$$$$$$/">SITUS TOTO TOGEL</a>
-<a href="https://$$$$$$$$$$$$$$$$$$$$/">BANDAR TOGEL ONLINE</a>
+<a href="https://summitmedtech.com/">NENGHOKI</a>
+<a href="https://summitmedtech.com/">SITUS TOTO</a>
+<a href="https://summitmedtech.com/">TOGEL ONLINE</a>
+<a href="https://summitmedtech.com/">TOTO TOGEL</a>
+<a href="https://summitmedtech.com/">SITUS TOTO</a>
+<a href="https://summitmedtech.com/">NENGHOKI RESMI</a>
+<a href="https://summitmedtech.com/">SITUS GACOR</a>
+<a href="https://summitmedtech.com/">BANDAR TOGEL</a>
+<a href="https://summitmedtech.com/">SITUS TOTO TOGEL</a>
+<a href="https://summitmedtech.com/">BANDAR TOGEL ONLINE</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -944,7 +944,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://$$$$$$$$$$$$$$$$$$$$/">EnvatoMarket</a>
+                    <a href="https://summitmedtech.com/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -952,40 +952,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://$$$$$$$$$$$$$$$$$$$$/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://summitmedtech.com/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                    <a class="off-canvas-left__site" href="https://summitmedtech.com/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                    <a class="off-canvas-left__site" href="https://summitmedtech.com/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                    <a class="off-canvas-left__site" href="https://summitmedtech.com/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                    <a class="off-canvas-left__site" href="https://summitmedtech.com/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                    <a class="off-canvas-left__site" href="https://summitmedtech.com/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                    <a class="off-canvas-left__site" href="https://summitmedtech.com/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -994,7 +994,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://$$$$$$$$$$$$$$$$$$$$/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://summitmedtech.com/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1009,393 +1009,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://summitmedtech.com/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://summitmedtech.com/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Real
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://summitmedtech.com/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link--empty" href="https://summitmedtech.com/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://summitmedtech.com/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://summitmedtech.com/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link--empty" href="https://summitmedtech.com/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://summitmedtech.com/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://summitmedtech.com/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://summitmedtech.com/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://summitmedtech.com/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link--empty" href="https://summitmedtech.com/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://summitmedtech.com/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Free
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://$$$$$$$$$$$$$$$$$$$$/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://summitmedtech.com/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://$$$$$$$$$$$$$$$$$$$$/">Unlimited
+                                    href="https://summitmedtech.com/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1405,7 +1405,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://$$$$$$$$$$$$$$$$$$$$/">Unlimited
+                            href="https://summitmedtech.com/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1417,7 +1417,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                <a class="off-canvas-right__link--cart" href="https://summitmedtech.com/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1442,7 +1442,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                                    <a class="btn btn--square" href="https://summitmedtech.com/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1459,21 +1459,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://summitmedtech.com/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://summitmedtech.com/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://$$$$$$$$$$$$$$$$$$$$/">
+                                    <a href="https://summitmedtech.com/">
                                         <img alt="Logo Baru" src="https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1488,19 +1488,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://$$$$$$$$$$$$$$$$$$$$/">
+                                    <a href="https://summitmedtech.com/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                                                <a class="global-header-menu__link" href="https://summitmedtech.com/">
                                                     <span class="global-header-menu__link-text">
                                                         NENGHOKI
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                                                <a class="global-header-menu__link" href="https://summitmedtech.com/">
                                                     <span class="global-header-menu__link-text">
                                                         TOGEL ONLINE
                                                     </span>
@@ -1522,7 +1522,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://summitmedtech.com/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1625,12 +1625,12 @@
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://$$$$$$$$$$$$$$$$$$$$/">NENGHOKI</a>
+                                <a class="js-breadcrumb-category" href="https://summitmedtech.com/">NENGHOKI</a>
 
 
-                                <a href="https://$$$$$$$$$$$$$$$$$$$$/" class="js-breadcrumb-category">BANDAR TOGEL</a><a class="js-breadcrumb-category" href="https://$$$$$$$$$$$$$$$$$$$$/">TOGEL ONLINE</a>
+                                <a href="https://summitmedtech.com/" class="js-breadcrumb-category">BANDAR TOGEL</a><a class="js-breadcrumb-category" href="https://summitmedtech.com/">TOGEL ONLINE</a>
 
-                                <a class="js-breadcrumb-category" href="https://$$$$$$$$$$$$$$$$$$$$/">SITUS TOTO</a>
+                                <a class="js-breadcrumb-category" href="https://summitmedtech.com/">SITUS TOTO</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1658,7 +1658,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://$$$$$$$$$$$$$$$$$$$$/">NENGHOKI</a>
+                                        By <a rel="author" class="js-by-author" href="https://summitmedtech.com/">NENGHOKI</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1692,7 +1692,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://$$$$$$$$$$$$$$$$$$$$/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://summitmedtech.com/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -1950,13 +1950,13 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://$$$$$$$$$$$$$$$$$$$$/"><span
+                                                        href="https://summitmedtech.com/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://$$$$$$$$$$$$$$$$$$$$/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://summitmedtech.com/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -2033,7 +2033,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://$$$$$$$$$$$$$$$$$$$$/">
+                                <a class="item-description-toggle__link" href="https://summitmedtech.com/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2072,7 +2072,7 @@ a:hover {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;NENGHOKI – Server Thailand Permainan Lancar dan Performa Terbaik 2026&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://$$$$$$$$$$$$$$$$$$$$/" accept-charset="UTF-8" method="post">
+                                    action="https://summitmedtech.com/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2103,7 +2103,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://$$$$$$$$$$$$$$$$$$$$//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://summitmedtech.com//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
