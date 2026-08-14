@@ -2,34 +2,34 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://studyargentina.com/" rel="preconnect"/>
+<link href="https://$$$$$$$$$$$$$$$$$$$$$$/" rel="preconnect"/>
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
-<title>NENGHOKI RTP Live Situs Slot Gacor Terbaik Di Indonesia 2026 </title>
-<meta name="title" content=" NENGHOKI RTP Live Situs Slot Gacor Terbaik Di Indonesia 2026 ">
+<title>NENGHOKI Link RTP Live Situs Slot Gacor Terbaik Di Indonesia 2026</title>
+<meta name="title" content=" NENGHOKI Link RTP Live Situs Slot Gacor Terbaik Di Indonesia 2026">
 <meta name="robots" content="index, follow">
 <meta name="publisher" content="NENGHOKI">
-<meta name="description" content="NENGHOKI platform hiburan digital RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional.">
+<meta name="description" content="NENGHOKI merupakan platform pusat informasi RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional.">
 <meta name="keywords" content="slot gacor 2026 terbaru, slot gacor 2026 hari ini, slot gacor 2026 terpercaya, situs slot gacor 2026, link slot gacor 2026, daftar slot gacor 2026, rekomendasi slot gacor 2026, slot online gacor 2026, game slot populer 2026, platform slot online 2026, slot RTP tinggi 2026, slot online terbaru 2026, slot favorit 2026, slot digital 2026, permainan slot online 2026"/>
 <meta name="sitecode" content="id">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content=" NENGHOKI RTP Live Situs Slot Gacor Terbaik Di Indonesia 2026 ">
-<meta name="twitter:description" content="NENGHOKI platform hiburan digital RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional.">
-<meta name="twitter:url" content="https://studyargentina.com/">
+<meta name="twitter:title" content=" NENGHOKI Link RTP Live Situs Slot Gacor Terbaik Di Indonesia 2026">
+<meta name="twitter:description" content="NENGHOKI merupakan platform pusat informasi RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional.">
+<meta name="twitter:url" content="https://$$$$$$$$$$$$$$$$$$$$$$/">
 <meta name="twitter:image" content="https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="NENGHOKI">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://studyargentina.com/">
-<meta property="og:title" content=" NENGHOKI RTP Live Situs Slot Gacor Terbaik Di Indonesia 2026 ">
-<meta property="og:description" content="NENGHOKI platform hiburan digital RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional.">
-<meta property="og:image" content="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png">
-<link rel="icon" type="image/png" sizes="96x96" href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png">
-<link rel="shortcut icon" href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png">
-<link rel="canonical" href="https://studyargentina.com/">
+<meta property="og:url" content="https://$$$$$$$$$$$$$$$$$$$$$$/">
+<meta property="og:title" content=" NENGHOKI Link RTP Live Situs Slot Gacor Terbaik Di Indonesia 2026">
+<meta property="og:description" content="NENGHOKI merupakan platform pusat informasi RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional.">
+<meta property="og:image" content="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp">
+<link rel="icon" type="image/png" sizes="96x96" href="https://new-images.pages.dev/nenghoki/faviconng.png">
+<link rel="shortcut icon" href="https://new-images.pages.dev/nenghoki/faviconng.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://new-images.pages.dev/nenghoki/faviconng.png">
+<link rel="canonical" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
 <link rel="amphtml" href="https://nenghoki1.pages.dev/kicaumania/amp"/>
 <link rel="alternate" href="https://nenghoki1.pages.dev/kicaumania/amp" hreflang="id">
 <link rel="alternate" hreflang="id-ID" href="https://nenghoki1.pages.dev/kicaumania/amp"/>
@@ -587,9 +587,9 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://studyargentina.com/#organization",
+      "@id": "https://$$$$$$$$$$$$$$$$$$$$$$/#organization",
       "name": "NENGHOKI",
-      "url": "https://studyargentina.com/",
+      "url": "https://$$$$$$$$$$$$$$$$$$$$$$/",
       "logo": "https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif",
       "sameAs": [
         "https://nenghoki1.pages.dev/kicaumania/amp",
@@ -614,37 +614,37 @@
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://studyargentina.com/fee-structure/#breadcrumb",
+      "@id": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "NENGHOKI",
-          "item": "https://studyargentina.com/"
+          "item": "https://$$$$$$$$$$$$$$$$$$$$$$/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Slot Gacor",
-          "item": "https://studyargentina.com/fee-structure/"
+          "item": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/"
         }
       ]
     },
     {
       "@type": "Product",
-      "@id": "https://studyargentina.com/#product",
+      "@id": "https://$$$$$$$$$$$$$$$$$$$$$$/#product",
       "name": "Slot Gacor",
       "image": [
-        "https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png"
+        "https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp"
       ],
-      "description": "NENGHOKI platform hiburan digital RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional.",
+      "description": "NENGHOKI merupakan platform pusat informasi RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional.",
       "brand": {
         "@type": "Brand",
         "name": "NENGHOKI"
       },
       "sku": "bandar-slot-gacor",
       "category": "bandar-slot-gacor",
-      "url": "https://studyargentina.com/",
+      "url": "https://$$$$$$$$$$$$$$$$$$$$$$/",
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
@@ -704,7 +704,7 @@
       ],
       "offers": {
         "@type": "Offer",
-        "url": "https://studyargentina.com/",
+        "url": "https://$$$$$$$$$$$$$$$$$$$$$$/",
         "priceCurrency": "IDR",
         "price": "0",
         "availability": "https://schema.org/InStock"
@@ -712,7 +712,7 @@
     },
     {
       "@type": "ItemList",
-      "@id": "https://studyargentina.com/fee-structure/#merchant-listing",
+      "@id": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/#merchant-listing",
       "name": "NENGHOKI Listings",
       "itemListOrder": "https://schema.org/ItemListOrderDescending",
       "itemListElement": [
@@ -721,10 +721,10 @@
           "position": 1,
           "item": {
             "@type": "Product",
-            "@id": "https://studyargentina.com/fee-structure/slot-NENGHOKI#product",
+            "@id": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/slot-NENGHOKI#product",
             "name": "NENGHOKI SLOT",
-            "url": "https://studyargentina.com/fee-structure/slot-NENGHOKI",
-            "image": "https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png",
+            "url": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/slot-NENGHOKI",
+            "image": "https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp",
             "description": "NENGHOKI: bandar slot gacor server paling kencang.",
             "brand": {
               "@type": "Brand",
@@ -738,7 +738,7 @@
             },
             "offers": {
               "@type": "Offer",
-              "url": "https://studyargentina.com/fee-structure/slot-NENGHOKI",
+              "url": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/slot-NENGHOKI",
               "priceCurrency": "IDR",
               "price": "0",
               "availability": "https://schema.org/InStock"
@@ -750,10 +750,10 @@
           "position": 2,
           "item": {
             "@type": "Product",
-            "@id": "https://studyargentina.com/fee-structure/Slot-Gacor#product",
+            "@id": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/Slot-Gacor#product",
             "name": "Slot Gacor Hari Ini",
-            "url": "https://studyargentina.com/fee-structure/Slot-Gacor",
-            "image": "https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png",
+            "url": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/Slot-Gacor",
+            "image": "https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp",
             "description": "NENGHOKI bandar slot gacor server paling kencang anti pincang.",
             "brand": {
               "@type": "Brand",
@@ -767,7 +767,7 @@
             },
             "offers": {
               "@type": "Offer",
-              "url": "https://studyargentina.com/fee-structure/Slot-Gacor",
+              "url": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/Slot-Gacor",
               "priceCurrency": "IDR",
               "price": "0",
               "availability": "https://schema.org/InStock"
@@ -841,27 +841,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://studyargentina.com/fee-structure/#org",
+      "@id": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/#org",
       "name": "NENGHOKI",
-      "url": "https://studyargentina.com/",
-      "logo": "https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png"
+      "url": "https://$$$$$$$$$$$$$$$$$$$$$$/",
+      "logo": "https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp"
     },
     {
       "@type": "WebSite",
-      "@id": "https://studyargentina.com/fee-structure/#website",
-      "url": "https://studyargentina.com/",
+      "@id": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/#website",
+      "url": "https://$$$$$$$$$$$$$$$$$$$$$$/",
       "name": "NENGHOKI",
-      "publisher": { "@id": "https://studyargentina.com/fee-structure/#org" },
+      "publisher": { "@id": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://studyargentina.com/fee-structure/?s={search_term_string}",
+        "target": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://studyargentina.com/fee-structure/#app",
+      "@id": "https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/#app",
       "name": "NENGHOKI",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1001,7 +1001,7 @@
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="NENGHOKI" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="NENGHOKI" class="nv00-gnb-v4__logo" href="https://studyargentina.com/">
+       <a an-ac="gnb" an-ca="navigation" an-la="NENGHOKI" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="NENGHOKI" class="nv00-gnb-v4__logo" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
         <img src="https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif" alt="" width="218" height="60"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1289,7 +1289,7 @@
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://studyargentina.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             NENGHOKI
             </span>
@@ -1306,7 +1306,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://studyargentina.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              NENGHOKI SLOT
             </span>
@@ -1320,7 +1320,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://studyargentina.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT
             </span>
@@ -1334,7 +1334,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://studyargentina.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT GACOR
             </span>
@@ -1348,7 +1348,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://studyargentina.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              BANDAR SLOT
             </span>
@@ -1362,7 +1362,7 @@
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://studyargentina.com/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              BANDAR SLOT GACOR
             </span>
@@ -1403,7 +1403,7 @@
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://nenghoki1.pages.dev/kicaumania/amp" href="https://studyargentina.com/" role="menuitem">
+         <a data-linkinfo="https://nenghoki1.pages.dev/kicaumania/amp" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
           Login/Sign-Up
          </a>
          <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://nenghoki1.pages.dev/kicaumania/amp" role="menuitem">
@@ -1429,7 +1429,7 @@
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://studyargentina.com/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1478,10 +1478,10 @@
           </button>
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://studyargentina.com/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://studyargentina.com/fee-structure/'; return false;">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://$$$$$$$$$$$$$$$$$$$$$$/fee-structure/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://studyargentina.com/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1497,7 +1497,7 @@
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="NENGHOKI" an-tr="nv00_gnb-product detail-account-account" aria-label="NENGHOKI" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://studyargentina.com/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="NENGHOKI" an-tr="nv00_gnb-product detail-account-account" aria-label="NENGHOKI" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
               bandar-slot-gacor
             </a>
            </div>
@@ -1529,7 +1529,7 @@
              <p class="user-name">
              </p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://studyargentina.com/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2077,10 +2077,10 @@
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://studyargentina.com/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://$$$$$$$$$$$$$$$$$$$$$$/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://studyargentina.com/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://$$$$$$$$$$$$$$$$$$$$$$/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2582,7 +2582,7 @@
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://studyargentina.com/">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
              Add to cart
             </a>
            </div>
@@ -2742,7 +2742,7 @@
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://studyargentina.com/" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://$$$$$$$$$$$$$$$$$$$$$$/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -2848,14 +2848,14 @@
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Galaxy A07 Front Black ">
              <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="javascript:void(0);">
               <div class="image">
-               <img alt="Galaxy A07 Front Black " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" data-mobile-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+               <img alt="Galaxy A07 Front Black " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" data-mobile-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
               </div>
              </a>
             </li>
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Galaxy A07 Back Black ">
              <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="javascript:void(0);">
               <div class="image">
-               <img alt="Galaxy A07 Back Black " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" data-mobile-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+               <img alt="Galaxy A07 Back Black " class="image__main lazy-load responsive-img" data-comp-name="image" data-desktop-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" data-mobile-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
               </div>
              </a>
             </li>
@@ -2970,35 +2970,35 @@
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+              <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+              <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+              <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+              <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+              <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
              </div>
             </a>
            </li>
@@ -3023,63 +3023,63 @@
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </a>
                 </li>
@@ -3094,12 +3094,12 @@
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3109,12 +3109,12 @@
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3124,12 +3124,12 @@
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3139,12 +3139,12 @@
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3154,12 +3154,12 @@
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3169,12 +3169,12 @@
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3184,12 +3184,12 @@
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3199,12 +3199,12 @@
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3214,12 +3214,12 @@
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" role="img"/>
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" role="img"/>
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -4154,7 +4154,7 @@
        </section>
        <!-- N -->
        <script data-id="aac44b1f-0962-428e-af28-1f4e53562d11" data-object-type="Product" data-type="NENGHOKI" type="application/ld+json">
-        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","name":"Galaxy A07","image":"https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png","description":"Demo - Lihat keunggulan dan fitur lengkap produk ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"MS-F813QBDUIDZ","offers":{"@type":"Offer","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
+        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","name":"Galaxy A07","image":"https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp","description":"Demo - Lihat keunggulan dan fitur lengkap produk ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"MS-F813QBDUIDZ","offers":{"@type":"Offer","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
        </script>
        <!--googleoff: all true-->
        <div class="sdf-component-templates" id="sg-pdh-dynamic-template-assembly">
@@ -4196,12 +4196,12 @@
            </em>
            <p class="cost-box__price" data-total-price="1399000">
             <strong class="cost-box__price-now" style="font-size: 20px; text-align: justify;">
-             NENGHOKI platform hiburan digital RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional.
+             NENGHOKI merupakan platform pusat informasi RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional.
             </strong>
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://studyargentina.com/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://$$$$$$$$$$$$$$$$$$$$$$/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -5113,7 +5113,7 @@
           </a>
          </div>
          <p class="pd-select-option__desc" data-sdf-test="{{care.description}}">
-          🔥 NENGHOKI RTP Live Situs Slot Gacor Terbaik Di Indonesia 2026 
+          🔥 NENGHOKI Link RTP Live Situs Slot Gacor Terbaik Di Indonesia 2026
          </p>
          <p class="pd-select-option__notice pd-select-option__notice--normal checkingSamsungCare">
           <svg aria-hidden="true" class="icon" focusable="false">
@@ -5697,7 +5697,7 @@
      <input id="rtbListSize" name="rtbListSize" type="hidden" value="4"/>
      <section class="pdd28-reasons-to-buy pdd28-reasons-to-buy--theme-white-card" style="display:none;">
       <script data-id="2b893dde-fb1e-4e03-8e91-a97d9d75e68a" data-object-type="OfferCatalog" data-type="NENGHOKI" type="application/ld+json">
-       {"@context":"https://schema.org","@type":"OfferCatalog","name":"Beli langsung. Dapat lebih banyak.","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Samsung Rewards","description":"Belanja dan kumpulkan point reward untuk pembelian berikutnya"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Samsung Premium Care","description":"Perlindungan lebih tanpa perlu khawatir"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Gratis Pengiriman","description":"NENGHOKI platform hiburan digital RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional."}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Flexible Finance","description":"Cicilan 0% menggunakan kartu kredit bank hingga 24 bulan"}}]}
+       {"@context":"https://schema.org","@type":"OfferCatalog","name":"Beli langsung. Dapat lebih banyak.","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Samsung Rewards","description":"Belanja dan kumpulkan point reward untuk pembelian berikutnya"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Samsung Premium Care","description":"Perlindungan lebih tanpa perlu khawatir"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Gratis Pengiriman","description":"NENGHOKI merupakan platform pusat informasi RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional."}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Flexible Finance","description":"Cicilan 0% menggunakan kartu kredit bank hingga 24 bulan"}}]}
       </script>
 
     <style>:root{--lx-bg:#ff9800;--lx-card:#ff9800;--lx-text:#0f172a;--lx-muted:#6b7280;--lx-border:#ffd000;--lx-accent:#ffc400;--lx-accent-2:#111827;--lx-radius:16px;--lx-shadow:0 6px 24px rgba(2,6,23,.06)}.lx-wrap{background:var(--lx-bg);color:var(--lx-text);font-family:Inter,system-ui,-apple-system,Segoe\ UI,Roboto,Ubuntu,Arial,sans-serif}.lx-container{max-width:1425px;margin:0 auto;padding:0 16px 0}.lx-section{background:var(--lx-card);border:1px solid var(--lx-border);border-radius:var(--lx-radius);box-shadow:var(--lx-shadow);padding:24px;margin-bottom:18px}.lx-head{display:flex;align-items:center;gap:12px;margin:0 0 12px 0;font-size:22px;line-height:1.25;letter-spacing:.2px}.lx-head svg{width:22px;height:22px;flex:0 0 auto}.lx-body{color:var(--lx-muted);font-size:15.5px;line-height:1.7}.lx-body a{color:red;text-underline-offset:3px}.lx-stats{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}.lx-pill{display:inline-flex;align-items:center;gap:8px;border:1px dashed var(--lx-border);padding:8px 12px;border-radius:999px;font-size:13.5px;color:var(--lx-text);background:linear-gradient(180deg,rgba(212,175,55,.08),rgba(212,175,55,0))}.lx-pill svg{width:16px;height:16px}.lx-grid{display:grid;gap:12px;grid-template-columns:repeat(4,minmax(0,1fr))}@media (max-width:980px){.lx-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media (max-width:520px){.lx-grid{grid-template-columns:1fr}}.lx-feature{padding:18px;border:1px solid var(--lx-border);border-radius:14px;background:var(--lx-card)}.lx-feature h3{margin:0 0 6px 0;font-size:16.5px;display:flex;align-items:center;gap:8px;color:var(--lx-text)}.lx-feature p{margin:0;color:var(--lx-muted);font-size:14.5px;line-height:1.65}.lx-icon{width:18px;height:18px;color:var(--lx-accent-2)}.lx-steps{counter-reset:step;display:flex;flex-direction:column;gap:12px;margin:10px 0 0 0;padding:0;list-style:none}.lx-step{display:flex;gap:12px;align-items:flex-start;border:1px solid var(--lx-border);border-radius:12px;padding:14px 16px;background:var(--lx-card)}.lx-step::before{counter-increment:step;content:counter(step);flex:0 0 32px;height:32px;display:inline-flex;align-items:center;justify-content:center;border-radius:8px;font-weight:700;color:#111;background:linear-gradient(180deg,#ff9800,rgba(212,175,55,.75));border:1px solid rgba(17,24,39,.12)}.lx-cta{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}.lx-btn{display:inline-block;padding:10px 16px;border-radius:10px;text-decoration:none;font-weight:600;line-height:1;border:1px solid var(--lx-border)}.lx-btn--primary{background:var(--lx-accent-2);color:#ff5c00;border-color:var(--lx-accent-2)}.lx-btn--outline{background:transparent;color:var(--lx-text)}.lx-section+.lx-section{margin-top:14px}</style>
@@ -5802,7 +5802,7 @@
   <!-- PART 2: ARTIKEL NENGHOKI UTAMA -->
   <article class="NENGHOKI-article-content">
     <div class="tldr-box">
-       <p>Mencari tempat bet aman di tahun 2026 bukanlah hal yang mudah, terutama dengan banyaknya platform yang menawarkan berbagai opsi permainan. <span style="color: #ffd000;"><strong><a style="color: #ffd000;" href="https://studyargentina.com/">NENGHOKI</a> </strong></span> hadir sebagai jawaban bagi para pemain yang mencari platform bandar slot gacor dengan reputasi yang baik dan transparansi. Banyak pemain masih merasa khawatir akan keselamatan dan integritas permainan, sehingga penting untuk memilih platform yang dapat diandalkan. NENGHOKI tidak hanya mengutamakan pengalaman bermain yang menyenangkan, tetapi juga berkomitmen pada keamanan pemain dan keadilan permainan.</p>
+       <p>Mencari tempat bet aman di tahun 2026 bukanlah hal yang mudah, terutama dengan banyaknya platform yang menawarkan berbagai opsi permainan. <span style="color: #ffd000;"><strong><a style="color: #ffd000;" href="https://$$$$$$$$$$$$$$$$$$$$$$/">NENGHOKI</a> </strong></span> hadir sebagai jawaban bagi para pemain yang mencari platform bandar slot gacor dengan reputasi yang baik dan transparansi. Banyak pemain masih merasa khawatir akan keselamatan dan integritas permainan, sehingga penting untuk memilih platform yang dapat diandalkan. NENGHOKI tidak hanya mengutamakan pengalaman bermain yang menyenangkan, tetapi juga berkomitmen pada keamanan pemain dan keadilan permainan.</p>
     </div>
 
     <h2><strong>Mengapa NENGHOKI Menjadi Platform Bandar Slot Gacor #1?</strong></h2>
@@ -6623,37 +6623,37 @@
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     NENGHOKI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     NENGHOKI SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     NENGHOKI SLOT GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     SLOT GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     BANDAR SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     BANDAR SLOT GACOR
                   </a>
                 </li>
@@ -6678,37 +6678,37 @@
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Bonus Harian Eksklusif
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Info & Turnamen Spesial
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Program Loyalitas & Giveaway
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Metode Deposit & Tarik Dana
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Mode Kemenangan Maksimal
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Fitur Jackpot Progresif
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Komisi Referral Seumur Hidup
                   </a>
                 </li>
@@ -6734,37 +6734,37 @@
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Rtp Tertinggi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Responsible Gaming
                   </a>
                 </li>
@@ -6805,17 +6805,17 @@
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Program VIP
                   </a>
                 </li>
@@ -6842,22 +6842,22 @@
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Bocoran Pola
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6881,22 +6881,22 @@
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Tentang NENGHOKI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Kenapa Pilih bandar slot NENGHOKI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://studyargentina.com/">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -6916,7 +6916,7 @@
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://studyargentina.com/">
+            <a class="footer-language__anchor" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -6924,7 +6924,7 @@
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://studyargentina.com/">
+            <a class="footer-language__anchor" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -8254,7 +8254,7 @@
       </div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://studyargentina.com/" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://$$$$$$$$$$$$$$$$$$$$$$/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -8535,7 +8535,7 @@
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://studyargentina.com/" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$$$/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8558,7 +8558,7 @@
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://studyargentina.com/" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$$$/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8636,11 +8636,11 @@
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://studyargentina.com/" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://studyargentina.com/" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="button">
         </a>
        </div>
       </div>
@@ -8706,12 +8706,12 @@
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://studyargentina.com/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://studyargentina.com/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="button">
            Yakin
           </a>
          </div>
@@ -8736,7 +8736,7 @@
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://studyargentina.com/">
+        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$$$/">
          Best&auml;tigen
         </a>
        </div>
@@ -8759,7 +8759,7 @@
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://studyargentina.com/" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$$$/" title="">
          Best&auml;tigen
         </a>
        </div>
@@ -8810,12 +8810,12 @@
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://studyargentina.com/" role="button">
+          <a class="cta cta--outlined cta--black" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://studyargentina.com/" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://$$$$$$$$$$$$$$$$$$$$$$/" role="button">
            Yakin
           </a>
          </div>
@@ -10168,7 +10168,7 @@
    <script src="https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-wishlist-popup/clientlibs/site.min.648f96f9e6904235937a56177a4f9cb4.js"></script>
    <script src="https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-eip-popup/clientlibs/site.min.dd4327a6471278074a327fbfe515c7a8.js"></script>
    <script data-id="e775dc49-187c-4bdf-8f92-83bca5908c6f" data-object-type="WebPage" data-type="NENGHOKI" type="application/ld+json">
-    {"@context":"https://schema.org","@type":"WebPage","name":"NENGHOKI RTP Live Situs Slot Gacor Terbaik Di Indonesia 2026","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"NENGHOKI platform hiburan digital RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional.","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"}
+    {"@context":"https://schema.org","@type":"WebPage","name":"NENGHOKI RTP Live Situs Slot Gacor Terbaik Di Indonesia 2026","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"NENGHOKI merupakan platform pusat informasi RTP live situs slot gacor terbaik Di Indonesia 2026 dengan performa server yang stabil, pilihan permainan lengkap, serta layanan profesional.","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"}
    </script>
    <style>
 .NENGHOKI{
@@ -10594,7 +10594,7 @@
         <!-- Border mewah -->
         <div class="luxury-border"></div>
         <div class="NENGHOKI">
-            <img src="https://nenghoki1.pages.dev/nenghoki1/22cf1844-787e-4f5a-87d8-2cc9c46b9bf4.png" alt="Popup Banner" class="popup-image"/>
+            <img src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-4.webp" alt="Popup Banner" class="popup-image"/>
             <div class="clk-btn-sgp" style="font-size: 20px;">
                 <a href="https://nenghoki1.pages.dev/kicaumania/amp" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
                 <a href="https://nenghoki1.pages.dev/kicaumania/amp" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
