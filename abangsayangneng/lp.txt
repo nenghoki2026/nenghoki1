@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://devanagarifonts.org/" rel="preconnect">
+<link href="https://$$$$$$$$$$$$$$$$$$$$$$$/" rel="preconnect">
 <meta charset="utf-8">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
@@ -10,7 +10,7 @@
 <title>NENGHOKI – Masuk ke Dunia Penuh Kejutan Scatter dan Sensasi Tak Terlupakan!</title>
 <meta name="title" content="NENGHOKI – Masuk ke Dunia Penuh Kejutan Scatter dan Sensasi Tak Terlupakan!">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://devanagarifonts.org/">
+<link rel="canonical" href="https://$$$$$$$$$$$$$$$$$$$$$$$/">
 <link rel="amphtml" href="https://nenghoki1.pages.dev/abangsayangneng/amp">
 <link rel="alternate" hreflang="id-id" href="https://nenghoki1.pages.dev/abangsayangneng/amp"/>
 <link rel="alternate" href="https://nenghoki1.pages.dev/abangsayangneng/amp"/>
@@ -24,18 +24,18 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="NENGHOKI – Masuk ke Dunia Penuh Kejutan Scatter dan Sensasi Tak Terlupakan!">
 <meta name="twitter:description" content="Bersiaplah untuk memasuki dunia penuh kejutan bersama NENGHOKI, platform hiburan digital yang menghadirkan pengalaman bermain seru, modern, dan penuh sensasi. Dengan berbagai pilihan permainan populer dan fitur menarik, NENGHOKI menawarkan pengalaman yang dirancang untuk memberikan keseruan maksimal bagi setiap penggunanya.">
-<meta name="twitter:url" content="https://devanagarifonts.org/">
+<meta name="twitter:url" content="https://$$$$$$$$$$$$$$$$$$$$$$$/">
 <meta name="twitter:image" content="https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="NENGHOKI">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://devanagarifonts.org/">
+<meta property="og:url" content="https://$$$$$$$$$$$$$$$$$$$$$$$/">
 <meta property="og:title" content="NENGHOKI – Masuk ke Dunia Penuh Kejutan Scatter dan Sensasi Tak Terlupakan!">
 <meta property="og:description" content="Bersiaplah untuk memasuki dunia penuh kejutan bersama NENGHOKI, platform hiburan digital yang menghadirkan pengalaman bermain seru, modern, dan penuh sensasi. Dengan berbagai pilihan permainan populer dan fitur menarik, NENGHOKI menawarkan pengalaman yang dirancang untuk memberikan keseruan maksimal bagi setiap penggunanya.">
 <meta property="og:image" content="https://nenghoki1.pages.dev/nenghoki1/0c1d01e0-1105-4cec-ba72-6a1c66579efb.png">
-<link rel="icon" type="image/png" sizes="96x96" href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png">
-<link rel="shortcut icon" href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://i.ibb.co/z6rpQkS/Untitled-design-17-removebg-preview-removebg-preview.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://new-images.pages.dev/nenghoki/faviconng.png">
+<link rel="shortcut icon" href="https://new-images.pages.dev/nenghoki/faviconng.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://new-images.pages.dev/nenghoki/faviconng.png">
 <link href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/global/css/fonts.min.8a18f528e82f16d7420d24afc5dbd284.css" rel="stylesheet" type="text/css">
 <link href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/id.min.d4a873f5ad80fabc15ee8200be9ce4ea.css" rel="stylesheet" type="text/css">
 <link href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.1dd1d47f040029bab499de380db9b346.css" rel="stylesheet" type="text/css">
@@ -695,9 +695,9 @@ digitalData.page.pageInfo.pageName = pageName;
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://devanagarifonts.org/#organization",
+        "@id": "https://$$$$$$$$$$$$$$$$$$$$$$$/#organization",
         "name": "situs gacor",
-        "url": "https://devanagarifonts.org/",
+        "url": "https://$$$$$$$$$$$$$$$$$$$$$$$/",
         "logo": "https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif",
         "sameAs": [
           "https://nenghoki1.pages.dev/abangsayangneng/amp",
@@ -723,32 +723,32 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://devanagarifonts.org/#breadcrumb",
+        "@id": "https://$$$$$$$$$$$$$$$$$$$$$$$/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "nenghoki",
-            "item": "https://devanagarifonts.org/-nenghoki"
+            "item": "https://$$$$$$$$$$$$$$$$$$$$$$$/-nenghoki"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "slot nenghoki",
-            "item": "https://devanagarifonts.org/-nenghoki"
+            "item": "https://$$$$$$$$$$$$$$$$$$$$$$$/-nenghoki"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "nenghoki login",
-            "item": "https://devanagarifonts.org/-nenghoki"
+            "item": "https://$$$$$$$$$$$$$$$$$$$$$$$/-nenghoki"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://devanagarifonts.org/demo#product",
+        "@id": "https://$$$$$$$$$$$$$$$$$$$$$$$/demo#product",
         "name": "slot online",
         "image": [
           "https://nenghoki1.pages.dev/nenghoki1/0c1d01e0-1105-4cec-ba72-6a1c66579efb.png"
@@ -760,7 +760,7 @@ digitalData.page.pageInfo.pageName = pageName;
         },
         "sku": "Slot-Gacor-Hari-Ini",
         "category": "nenghoki",
-        "url": "https://devanagarifonts.org/",
+        "url": "https://$$$$$$$$$$$$$$$$$$$$$$$/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
@@ -804,7 +804,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://devanagarifonts.org/",
+          "url": "https://$$$$$$$$$$$$$$$$$$$$$$$/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -813,7 +813,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "ItemList",
-        "@id": "https://devanagarifonts.org/#merchant-listing",
+        "@id": "https://$$$$$$$$$$$$$$$$$$$$$$$/#merchant-listing",
         "name": "Situs nenghoki",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -822,9 +822,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://devanagarifonts.org//apk-slot-gacor#product",
+              "@id": "https://$$$$$$$$$$$$$$$$$$$$$$$//apk-slot-gacor#product",
               "name": "slot terbaru",
-              "url": "https://devanagarifonts.org//apk-slot-gacor",
+              "url": "https://$$$$$$$$$$$$$$$$$$$$$$$//apk-slot-gacor",
               "image": "https://nenghoki1.pages.dev/nenghoki1/0c1d01e0-1105-4cec-ba72-6a1c66579efb.png",
               "description": "Bersiaplah untuk memasuki dunia penuh kejutan bersama NENGHOKI, platform hiburan digital yang menghadirkan pengalaman bermain seru, modern, dan penuh sensasi. Dengan berbagai pilihan permainan populer dan fitur menarik, NENGHOKI menawarkan pengalaman yang dirancang untuk memberikan keseruan maksimal bagi setiap penggunanya.",
               "brand": {
@@ -839,7 +839,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://devanagarifonts.org//Slot-Gacor",
+                "url": "https://$$$$$$$$$$$$$$$$$$$$$$$//Slot-Gacor",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -851,9 +851,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://devanagarifonts.org//#product",
+              "@id": "https://$$$$$$$$$$$$$$$$$$$$$$$//#product",
               "name": "situs nenghoki",
-              "url": "https://devanagarifonts.org/",
+              "url": "https://$$$$$$$$$$$$$$$$$$$$$$$/",
               "image": "https://nenghoki1.pages.dev/nenghoki1/0c1d01e0-1105-4cec-ba72-6a1c66579efb.png",
               "description": "Bersiaplah untuk memasuki dunia penuh kejutan bersama NENGHOKI, platform hiburan digital yang menghadirkan pengalaman bermain seru, modern, dan penuh sensasi. Dengan berbagai pilihan permainan populer dan fitur menarik, NENGHOKI menawarkan pengalaman yang dirancang untuk memberikan keseruan maksimal bagi setiap penggunanya.",
               "brand": {
@@ -868,7 +868,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://devanagarifonts.org/",
+                "url": "https://$$$$$$$$$$$$$$$$$$$$$$$/",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -880,9 +880,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://devanagarifonts.org//Apk-Slot-Gacor#product",
+              "@id": "https://$$$$$$$$$$$$$$$$$$$$$$$//Apk-Slot-Gacor#product",
               "name": "nenghoki",
-              "url": "https://devanagarifonts.org//Apk-Slot-Gacor",
+              "url": "https://$$$$$$$$$$$$$$$$$$$$$$$//Apk-Slot-Gacor",
               "image": "https://nenghoki1.pages.dev/nenghoki1/0c1d01e0-1105-4cec-ba72-6a1c66579efb.png",
               "description": "Bersiaplah untuk memasuki dunia penuh kejutan bersama NENGHOKI, platform hiburan digital yang menghadirkan pengalaman bermain seru, modern, dan penuh sensasi. Dengan berbagai pilihan permainan populer dan fitur menarik, NENGHOKI menawarkan pengalaman yang dirancang untuk memberikan keseruan maksimal bagi setiap penggunanya.",
               "brand": {
@@ -897,7 +897,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://devanagarifonts.org//Slot-gacor",
+                "url": "https://$$$$$$$$$$$$$$$$$$$$$$$//Slot-gacor",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -915,27 +915,27 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://devanagarifonts.org/#org",
+      "@id": "https://$$$$$$$$$$$$$$$$$$$$$$$/#org",
       "name": "nenghoki",
-      "url": "https://devanagarifonts.org/",
+      "url": "https://$$$$$$$$$$$$$$$$$$$$$$$/",
       "logo": "https://nenghoki1.pages.dev/nenghoki1/0c1d01e0-1105-4cec-ba72-6a1c66579efb.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://devanagarifonts.org/#website",
-      "url": "https://devanagarifonts.org/",
+      "@id": "https://$$$$$$$$$$$$$$$$$$$$$$$/#website",
+      "url": "https://$$$$$$$$$$$$$$$$$$$$$$$/",
       "name": "nenghoki",
-      "publisher": { "@id": "https://devanagarifonts.org/#org" },
+      "publisher": { "@id": "https://$$$$$$$$$$$$$$$$$$$$$$$/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://devanagarifonts.org/?s={search_term_string}",
+        "target": "https://$$$$$$$$$$$$$$$$$$$$$$$/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://devanagarifonts.org/#app",
+      "@id": "https://$$$$$$$$$$$$$$$$$$$$$$$/#app",
       "name": "nenghoki",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1044,7 +1044,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="SLOT" class="nv00-gnb-v4__logo" href="https://devanagarifonts.org/">
+       <a an-ac="gnb" an-ca="navigation" an-la="SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="SLOT" class="nv00-gnb-v4__logo" href="https://$$$$$$$$$$$$$$$$$$$$$$$/">
         <img src="https://nenghoki1.pages.dev/nenghoki1/nenghokigif.gif" alt="" width="200" height="56">
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1326,9 +1326,9 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menu">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://devanagarifonts.org/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
-            nenghoki
+            NENGHOKI
             </span>
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--mobile-only">
              Explore Shop
@@ -1343,9 +1343,9 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://devanagarifonts.org/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
-             nenghoki LOGIN
+             NENGHOKI LOGIN
             </span>
            </a>
            <button an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" aria-haspopup="true" class="nv00-gnb-v4__l0-menu-toggle-btn" role="menuitem">
@@ -1357,7 +1357,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://devanagarifonts.org/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT GACOR
             </span>
@@ -1371,7 +1371,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://devanagarifonts.org/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT 77
             </span>
@@ -1385,7 +1385,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://devanagarifonts.org/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT MAXWIN
             </span>
@@ -1399,7 +1399,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://devanagarifonts.org/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SITUS SLOT
             </span>
@@ -1432,7 +1432,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="nenghoki DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="nenghoki Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://devanagarifonts.org/" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="nenghoki DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="nenghoki Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1440,10 +1440,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://devanagarifonts.org/" href="https://devanagarifonts.org/" role="menuitem">
+         <a data-linkinfo="https://$$$$$$$$$$$$$$$$$$$$$$$/" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://devanagarifonts.org/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1463,7 +1463,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://devanagarifonts.org/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1508,10 +1508,10 @@ digitalData.page.pageInfo.pageName = pageName;
           </button>
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://devanagarifonts.org/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://devanagarifonts.org/'; return false;">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://$$$$$$$$$$$$$$$$$$$$$$$/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://devanagarifonts.org/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1527,7 +1527,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="SLOT" an-tr="nv00_gnb-product detail-account-account" aria-label="SLOT" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://devanagarifonts.org/" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="SLOT" an-tr="nv00_gnb-product detail-account-account" aria-label="SLOT" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
               SLOT
             </a>
            </div>
@@ -1554,7 +1554,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </svg>
              <p class="user-name"></p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://devanagarifonts.org/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2102,10 +2102,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://devanagarifonts.org/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://$$$$$$$$$$$$$$$$$$$$$$$/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://devanagarifonts.org/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://$$$$$$$$$$$$$$$$$$$$$$$/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2605,7 +2605,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://devanagarifonts.org/">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$$$$/">
              Add to cart
             </a>
            </div>
@@ -2764,7 +2764,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://devanagarifonts.org/" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4312,7 +4312,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://devanagarifonts.org/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://$$$$$$$$$$$$$$$$$$$$$$$/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6628,11 +6628,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
         </div>
 <div class="highlight-box">
-<p style="text-align: justify;"><a href="https://devanagarifonts.org/">NENGHOKI</a> Di era hiburan digital yang semakin berkembang, setiap pemain tentu menginginkan pengalaman bermain yang seru, praktis, dan penuh kejutan. NENGHOKI hadir sebagai platform yang menawarkan berbagai pilihan permainan menarik dengan performa yang stabil, akses cepat, serta fitur-fitur yang membuat setiap sesi bermain terasa lebih menghibur.
-
-Sensasi Bermain yang Penuh Antusiasme
-
-Salah satu hal yang membuat permainan semakin menarik adalah hadirnya momen-momen tak terduga yang mampu meningkatkan semangat bermain. Di NENGHOKI, setiap permainan dirancang untuk menghadirkan pengalaman yang dinamis, sehingga setiap putaran memberikan sensasi berbeda dan membuat pemain semakin antusias untuk melanjutkan permainan.</p>
+<p style="text-align: justify;"><a href="https://$$$$$$$$$$$$$$$$$$$$$$$/">BERSIAPLAH</a> Untuk memasuki dunia penuh kejutan bersama NENGHOKI, platform hiburan digital yang menghadirkan pengalaman bermain seru, modern, dan penuh sensasi. Dengan berbagai pilihan permainan populer dan fitur menarik, NENGHOKI menawarkan pengalaman yang dirancang untuk memberikan keseruan maksimal bagi setiap penggunanya. Di NENGHOKI, setiap permainan dirancang untuk menghadirkan pengalaman yang dinamis, sehingga setiap putaran memberikan sensasi berbeda dan membuat pemain semakin antusias untuk melanjutkan permainan.</p>
 
 <p style="text-align: justify;">Beragam Permainan Favorit dalam Satu Platform
 
@@ -6655,7 +6651,7 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
 <div class="reviews-grid">
     <div class="review-card">
         <div class="review-header">
-            <span class="review-name">Mpin – Jakarta</span>
+            <span class="review-name">Morfin – Jakarta</span>
             <span class="review-stars">★★★★★</span>
         </div>
         <p class="review-text">"Saya mengenal NENGHOKI dari rekomendasi teman dan ternyata pengalaman bermainnya sangat memuaskan. Koleksi game nenghoki lengkap, akses cepat, dan sistemnya berjalan stabil. Tidak heran jika situs ini menjadi pilihan banyak pemain slot online di tahun 2026."</p>
@@ -6664,7 +6660,7 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
 
 <div class="review-card">
     <div class="review-header">
-        <span class="review-name">Sabb – Jakarta</span>
+        <span class="review-name">Jajang – Jakarta</span>
         <span class="review-stars">★★★★★</span>
     </div>
     <p class="review-text">"Dibanding beberapa situs yang pernah saya coba, NENGHOKI terasa lebih nyaman digunakan. Pilihan game nenghoki sangat beragam dan tampilannya responsif di berbagai perangkat. Sangat cocok untuk pemain yang mengutamakan kemudahan akses."</p>
@@ -6673,7 +6669,7 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
 
 <div class="review-card">
     <div class="review-header">
-        <span class="review-name">Ying – Medan</span>
+        <span class="review-name">Anjas – Medan</span>
         <span class="review-stars">★★★★☆</span>
     </div>
     <p class="review-text">"Yang saya suka dari NENGHOKI adalah banyaknya provider game populer yang tersedia dalam satu akun. Proses login mudah dan permainan berjalan lancar. Pilihan game terbaru juga terus diperbarui sehingga tidak membosankan."</p>
@@ -6682,7 +6678,7 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
 
 <div class="review-card">
     <div class="review-header">
-        <span class="review-name">MK – Maumbi</span>
+        <span class="review-name">MELLE – Maumbi</span>
         <span class="review-stars">★★★★★</span>
     </div>
     <p class="review-text">"NENGHOKI memberikan pengalaman bermain yang stabil dengan navigasi yang mudah dipahami. Saya dapat mengakses berbagai permainan nenghoki favorit dalam satu platform tanpa hambatan. Pelayanannya juga cukup responsif selama 24 jam."</p>
@@ -6691,7 +6687,7 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
 
 <div class="review-card">
     <div class="review-header">
-        <span class="review-name">CL – Binjai</span>
+        <span class="review-name">CAK LONDO – Binjai</span>
         <span class="review-stars">★★★★★</span>
     </div>
     <p class="review-text">"Awalnya saya ragu untuk mencoba, tetapi setelah mendaftar di NENGHOKI ternyata prosesnya sangat mudah. Tampilan situs modern, loading cepat, dan tersedia banyak pilihan game nenghoki yang sedang populer di tahun 2026."</p>
@@ -6700,7 +6696,7 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
 
 <div class="review-card">
     <div class="review-header">
-        <span class="review-name">AI88 – Jakarta</span>
+        <span class="review-name">JAENAL – Jakarta</span>
         <span class="review-stars">★★★★★</span>
     </div>
     <p class="review-text">"Menurut saya NENGHOKI layak menjadi salah satu Situs Agen Resmi nenghoki & Slot Gacor Online Terpercaya 2026. Aksesnya stabil, pilihan permainan lengkap, dan platformnya nyaman digunakan baik melalui perangkat mobile maupun desktop."</p>
@@ -6891,7 +6887,7 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
      <div class="breadcrumb__inner">
       <ul class="breadcrumb__path" role="list">
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://devanagarifonts.org/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://$$$$$$$$$$$$$$$$$$$$$$$/">
          <span class="breadcrumb__text-desktop">
           nenghoki <span style="margin-left: 15px;">&gt;</span>
          </span>
@@ -6905,7 +6901,7 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
         </svg>
        </li>
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://devanagarifonts.org/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://$$$$$$$$$$$$$$$$$$$$$$$/">
          <span class="breadcrumb__text-desktop">
           SLOT <span style="margin-left: 15px;">&gt;</span>
          </span>
@@ -6919,7 +6915,7 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
         </svg>
        </li>
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://devanagarifonts.org/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://$$$$$$$$$$$$$$$$$$$$$$$/">
          <span class="breadcrumb__text-desktop">
         SLOT GACOR
          </span>
@@ -6965,7 +6961,7 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
    
    <div class="pdd39-anchor-nav__bottom-wrap" id="anchorNavigationPriceBarMobile">
     <div class="pdd39-anchor-nav__bottom">
-     <div class="pdd39-anchor-nav__price pd-buying-price" id="sgDevPriceAreaBaseMobile">
+     <div class="pdd39-anchor-nav__price pd-buanjas-price" id="sgDevPriceAreaBaseMobile">
      </div>
     </div>
    </div>
@@ -6994,42 +6990,42 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     nenghoki
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     nenghoki GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     slot nenghoki
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     SLOT GACOR NENGHOKI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     situs gacor
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     LINK nenghoki
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     nenghoki ONLINE
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     SLOT
                   </a>
                 </li>
@@ -7054,37 +7050,37 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Fitur Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Fitur Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Program Referral
                   </a>
                 </li>
@@ -7110,37 +7106,37 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Responsible Gaming
                   </a>
                 </li>
@@ -7181,17 +7177,17 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Program VIP
                   </a>
                 </li>
@@ -7218,22 +7214,22 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Kontak Resmi
                   </a>
                 </li>
@@ -7257,22 +7253,22 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Tentang Slot Online
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Kenapa Pilih nenghoki
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://devanagarifonts.org/" an-as="">
+                  <a class="footer-category__link" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -7292,7 +7288,7 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://devanagarifonts.org/" an-as="">
+            <a class="footer-language__anchor" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
               Indonesia / Bahasa Indonesia
 
             </a>
@@ -7301,7 +7297,7 @@ NENGHOKI dapat diakses melalui smartphone, tablet, maupun komputer. Desain yang 
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://devanagarifonts.org/" an-as="">
+            <a class="footer-language__anchor" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" an-as="">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -9791,7 +9787,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://devanagarifonts.org/" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -10072,7 +10068,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://devanagarifonts.org/" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -10095,7 +10091,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://devanagarifonts.org/" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -10172,11 +10168,11 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://devanagarifonts.org/" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://devanagarifonts.org/" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="button">
         </a>
        </div>
       </div>
@@ -10242,12 +10238,12 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://devanagarifonts.org/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://devanagarifonts.org/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="button">
            Yakin
           </a>
          </div>
@@ -10272,7 +10268,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://devanagarifonts.org/">
+        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$$$$/">
          Bestätigen
         </a>
        </div>
@@ -10295,7 +10291,7 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://devanagarifonts.org/" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" title="">
          Bestätigen
         </a>
        </div>
@@ -10346,12 +10342,12 @@ var xdm_datastreamId = _satellite.getVar("datastreamId");
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://devanagarifonts.org/" role="button">
+          <a class="cta cta--outlined cta--black" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://devanagarifonts.org/" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://$$$$$$$$$$$$$$$$$$$$$$$/" role="button">
            Yakin
           </a>
          </div>
