@@ -6,8 +6,8 @@
 <head>
 <meta charset='utf-8'>
 <title>NENGHOKI – Situs Gacor anti Sedot WD Setiap Hari 2026</title>
-<link rel="icon" type="image/x-icon" href="https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png" />
-<link rel="apple-touch-icon" href="https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png">
+<link rel="icon" type="image/x-icon" href="https://new-images.pages.dev/nenghoki/faviconng.png" />
+<link rel="apple-touch-icon" href="https://new-images.pages.dev/nenghoki/faviconng.png">
 <link rel="canonical" href="https://nengbakso.com/">
 <link rel="amphtml" href="https://nenghoki1.pages.dev/nenghoki4/amp">
 <link rel="alternate" hreflang="id-id" href="https://nenghoki1.pages.dev/nenghoki4/amp" />
@@ -71,7 +71,7 @@
 <meta property="og:price:currency" content="USD">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://nengbakso.com/">
-<meta property="og:image" content="https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png">
+<meta property="og:image" content="https://img.culanseng.org/storage/images/nenghoki/nenghoki-9.webp">
 <meta property="og:site_name" content="NENGHOKI">
 <meta property="product:price:amount" content="100.00">
 <meta property="product:brand" content="NENGHOKI">
@@ -85,7 +85,7 @@
   window.dataLayer = window.dataLayer || [];
 </script>
 <script>
-  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://nengbakso.com/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Jagoanneon Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74165272_0.jpg","design__url":"https://nengbakso.com/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"NENGHOKI adalah situs slot online gacor setiap hari dan anti sedot, situs dengan berbagai pilihan permainan favorit serta sistem yang cepat, tampilan modern, dan akses mudah kapan saja.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"74165272D1V19G79A8C"})
+  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://nengbakso.com/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Jagoanneon Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://img.culanseng.org/storage/images/nenghoki/nenghoki-9.webp Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74165272_0.jpg","design__url":"https://nengbakso.com/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"NENGHOKI adalah situs slot online gacor setiap hari dan anti sedot, situs dengan berbagai pilihan permainan favorit serta sistem yang cepat, tampilan modern, dan akses mudah kapan saja.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"74165272D1V19G79A8C"})
 </script>
 <script>
   window.dataLayer.push({
@@ -102,7 +102,7 @@
           "id": "74165272",
           "brand": "Hey siriusly",
           "design_color": "Red",
-          "product_image": "https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74165272_0.jpg",
+          "product_image": "https://img.culanseng.org/storage/images/nenghoki/nenghoki-9.webp Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74165272_0.jpg",
           "variant_id": "19G79A8C",
           "design_owner_id": "6075586",
           "design_primary_tag": "george-kittle",
@@ -110,7 +110,7 @@
           "variant": '{"Gender":"Jagoanneon Fit","Style":"Classic T-Shirt","Color":"Red"}',
             "dimension34": '74165272D1V19G79A8C',
             "dimension37": 'false',
-            "dimension42": 'https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74165272_0.jpg',
+            "dimension42": 'https://img.culanseng.org/storage/images/nenghoki/nenghoki-9.webp Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74165272_0.jpg',
             "dimension44": 'george-kittle',
             "dimension46": '6075586',
             "dimension47": 'designer'
@@ -370,7 +370,7 @@ SITUS TOTO MACAU
 
 
 
-<div class='main-wrapper overflow-hidden'style="background-image: url(https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png);">
+<div class='main-wrapper overflow-hidden'style="background-image: url(https://img.culanseng.org/storage/images/nenghoki/nenghoki-9.webp);">
 <div id='site'>
 <div id='fb-root'></div>
 <noscript>
@@ -405,7 +405,7 @@ Please enable Javascript and return here.
       "url": "https://nengbakso.com/",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png"
+        "url": "https://img.culanseng.org/storage/images/nenghoki/nenghoki-9.webp"
       },
       "description": "NENGHOKI adalah platform online yang menghadirkan informasi seputar Toto Macau terbaru dan Data Macau hari ini dengan tampilan yang rapi, akses cepat, serta mudah digunakan melalui perangkat mobile maupun desktop."
     },
@@ -423,7 +423,7 @@ Please enable Javascript and return here.
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "url": "https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png"
+        "url": "https://img.culanseng.org/storage/images/nenghoki/nenghoki-9.webp"
       },
       "breadcrumb": {
         "@id": "https://nengbakso.com/#breadcrumb"
@@ -579,12 +579,12 @@ Back
 <ul class='glide__slides'>
 <li class='glide__slide m-product-preview__glider-slide' data-default='active' data-id='0' data-label=''>
 <picture class='m-product-preview__glider-img'>
-<img alt='NENGHOKI – Situs Gacor anti Sedot WD Setiap Hari 2026 by Hey siriusly' class='mockup jsProductMainImage' src='https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png'>
+<img alt='NENGHOKI – Situs Gacor anti Sedot WD Setiap Hari 2026 by Hey siriusly' class='mockup jsProductMainImage' src='https://img.culanseng.org/storage/images/nenghoki/nenghoki-9.webp'>
 </picture>
 </li>
 <li class='glide__slide m-product-preview__glider-slide' data-default='' data-id='1' data-label=''>
 <picture class='m-product-preview__glider-img'>
-<img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview jsProductMainImage' src='https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png'>
+<img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview jsProductMainImage' src='https://img.culanseng.org/storage/images/nenghoki/nenghoki-9.webp'>
 </picture>
 </li>
 </ul>
@@ -608,7 +608,7 @@ Back
 <a data-id="0" href="javascript:void(0);" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
-<img alt='NENGHOKI – Situs Gacor anti Sedot WD Setiap Hari 2026 by Hey siriusly' class='mockup' loading='lazy' src='https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png'>
+<img alt='NENGHOKI – Situs Gacor anti Sedot WD Setiap Hari 2026 by Hey siriusly' class='mockup' loading='lazy' src='https://img.culanseng.org/storage/images/nenghoki/nenghoki-9.webp'>
 </picture>
 
 </span>
@@ -616,7 +616,7 @@ Back
 </a><a data-id="1" href="javascript:void(0);" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='1'>
-<img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png'>
+<img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://img.culanseng.org/storage/images/nenghoki/nenghoki-9.webp'>
 </picture>
 
 </span>
@@ -1486,7 +1486,7 @@ Lengkap dengan Data Slot Gacor Hari Ini
 
   <!-- LOGO -->
   <div class="zeno-cta-icon">
-    <img src="https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png" alt="NENGHOKI">
+    <img src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-9.webp" alt="NENGHOKI">
   </div>
 
 </div>
@@ -4151,7 +4151,7 @@ height="0" width="0" style="display:none;visibility:hidden" rel="dns-prefetch"><
         <div class="luxury-border"></div>
         
         <div class="bobarawr">
-            <img src="https://nenghoki1.pages.dev/nenghoki1/nenghokicantik.png" alt="Popup Banner" class="popup-image" />
+            <img src="https://img.culanseng.org/storage/images/nenghoki/nenghoki-9.webp" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
                 <a href="https://nenghoki1.pages.dev/nenghoki4/amp">LOGIN</a>
